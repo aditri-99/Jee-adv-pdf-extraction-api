@@ -1,0 +1,982 @@
+[
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.1 Considering only the principal values of the inverse trigonometric functions, the value of 3 2 1 2√2 π √2 cos−1√ + sin−1 + tan−1 2 2+π2 4 2+π2 π is __________ ."
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.2 Let 𝛼 be a positive real number. Let 𝑓:ℝ→ ℝ and 𝑔:(𝛼,∞)→ ℝ be the functions defined by 𝜋𝑥 2 log ( √𝑥−√𝛼 ) e 𝑓(𝑥)= sin( ) and 𝑔(𝑥)= . 12 log ( 𝑒√𝑥−𝑒√𝛼 ) e Then the value of lim 𝑓(𝑔(𝑥)) is __________. 𝑥→𝛼+"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.3 In a study about a pandemic, data of 900 persons was collected. It was found that 190 persons had symptom of fever, 220 persons had symptom of cough, 220 persons had symptom of breathing problem, 330 persons had symptom of fever or cough or both, 350 persons had symptom of cough or breathing problem or both, 340 persons had symptom of fever or breathing problem or both, 30 persons had all three symptoms (fever, cough and breathing problem). If a person is chosen randomly from these 900 persons, then the probability that the person has at most one symptomis _____________. 1/9 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.4 Let 𝑧 be a complex number with non-zero imaginary part. If 2+3𝑧+4𝑧2 2−3𝑧+4𝑧2 is a real number, then the value of |𝑧|2 is _____________."
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.5 Let 𝑧̅ denote the complex conjugate of a complex number 𝑧 and let 𝑖 = √−1 . In the set of complex numbers, the number of distinct roots of the equation 𝑧̅−𝑧2 = 𝑖(𝑧̅+𝑧2) is _____________."
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.6 Let 𝑙 ,𝑙 ,…,𝑙 be consecutive terms of an arithmetic progression with common difference 𝑑 , and 1 2 100 1 let 𝑤 ,𝑤 ,…,𝑤 be consecutive terms of another arithmetic progression with common difference 1 2 100 𝑑 , where 𝑑 𝑑 = 10. For each 𝑖 =1,2,…,100, let 𝑅 be a rectangle with length 𝑙 , width 𝑤 and 2 1 2 𝑖 𝑖 𝑖 area 𝐴 . If 𝐴 −𝐴 =1000, then the value of 𝐴 −𝐴 is ____________. 𝑖 51 50 100 90"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.7 The number of 4-digit integers in the closed interval [2022, 4482] formed by using the digits 0,2,3,4,6,7 is ____________."
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.8 Let 𝐴𝐵𝐶 be the triangle with 𝐴𝐵 = 1, 𝐴𝐶 = 3 and ∠𝐵𝐴𝐶 = π . If a circle of radius 𝑟 > 0 touches 2 the sides 𝐴𝐵, 𝐴𝐶 and also touches internally the circumcircle of the triangle 𝐴𝐵𝐶, then the value of 𝑟 is _____________. 2/9  JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.10 Let 𝑎 ,𝑎 ,𝑎 ,… be an arithmetic progression with 𝑎 = 7 and common difference 8. Let 1 2 3 1 𝑇 ,𝑇 ,𝑇 ,… be such that 𝑇 = 3 and 𝑇 −𝑇 = 𝑎 for 𝑛 ≥ 1. Then, which of the following is/are 1 2 3 1 𝑛+1 𝑛 𝑛 TRUE ? (A) 𝑇 20 = 1604 (B) ∑2 𝑘 0 =1 𝑇 𝑘 = 10510 (C) 𝑇 30 = 3454 (D) ∑3 𝑘 0 =1 𝑇 𝑘 = 35610"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.11 Let 𝑃 and 𝑃 be two planes given by 1 2 𝑃 : 10𝑥 +15𝑦+12𝑧−60 = 0 , 1 𝑃 : −2𝑥 +5𝑦+4𝑧−20 = 0 . 2 Which of the following straight lines can be an edge of some tetrahedron whose two faces lie on 𝑃 1 and 𝑃 2 ? 𝑥−1 𝑦−1 𝑧−1 (A) = = 0 0 5 𝑥−6 𝑦 𝑧 (B) = = −5 2 3 𝑥 𝑦−4 𝑧 (C) = = −2 5 4 𝑥 𝑦−4 𝑧 (D) = = 1 −2 3"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.12 Let 𝑆 be the reflection of a point 𝑄 with respect to the plane given by 𝑟⃗ = −(𝑡+𝑝)𝑖̂+𝑡𝑗̂+(1+𝑝)𝑘̂ where 𝑡, 𝑝 are real parameters and 𝑖̂, 𝑗̂, 𝑘̂ are the unit vectors along the three positive coordinate axes. If the position vectors of 𝑄 and 𝑆 are 10𝑖̂+15𝑗̂+20𝑘̂ and 𝛼𝑖̂+𝛽𝑗̂+𝛾𝑘̂ respectively, then which of the following is/are TRUE ? (A) 3(𝛼+𝛽)= −101 (B) 3(𝛽+𝛾) = −71 (C) 3(𝛾+𝛼)= −86 (D) 3(𝛼+𝛽+𝛾) = −121 4/9 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.13 Consider the parabola 𝑦2 = 4𝑥. Let 𝑆 be the focus of the parabola. A pair of tangents drawn to the parabola from the point 𝑃 = (−2, 1) meet the parabola at 𝑃 and 𝑃 . Let 𝑄 and 𝑄 be points on the 1 2 1 2 lines 𝑆𝑃 and 𝑆𝑃 respectively such that 𝑃𝑄 is perpendicular to 𝑆𝑃 and 𝑃𝑄 is perpendicular to 1 2 1 1 2 𝑆𝑃 . Then, which of the following is/are TRUE ? 2 (A) 𝑆𝑄 = 2 1 3√10 (B) 𝑄 𝑄 = 1 2 5 (C) 𝑃𝑄 = 3 1 (D) 𝑆𝑄 = 1 2"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.14 Let |𝑀| denote the determinant of a square matrix 𝑀. Let 𝑔:[0, 𝜋 ] →ℝ be the function defined by 2 𝜋 𝑔(𝜃)= √𝑓(𝜃)−1 +√𝑓( −𝜃)−1 2 where 𝜋 𝜋 sin𝜋 cos(𝜃+ ) tan(𝜃− ) 1 sin𝜃 1 4 4 1 | 𝜋 𝜋 4 | 𝑓(θ) = |−sin𝜃 1 sin𝜃| + sin(𝜃− ) −cos log ( ) . 2 | 4 2 𝑒 𝜋 | −1 −sin𝜃 1 𝜋 𝜋 cot(𝜃+ ) log ( ) tan𝜋 𝑒 4 4 Let 𝑝(𝑥) be a quadratic polynomial whose roots are the maximum and minimum values of the function 𝑔(𝜃), and 𝑝(2)= 2−√2 . Then, which of the following is/are TRUE ? 3+√2 (A) 𝑝( )< 0 4 1+3√2 (B) 𝑝( )> 0 4 5√2−1 (C) 𝑝( )> 0 4 5−√2 (D) 𝑝( )< 0 4 5/9 JEE (Advanced) 2022 Paper 1 SECTION 3 (Maximum Marks: 12) • This section contains FOUR (04) Matching List Sets. • Each set has ONE Multiple Choice Question. • Each set has TWO lists: List­I and List­II. • List­I has Four entries (I), (II), (III) and (IV) and List­II has Five entries (P), (Q), (R), (S) and (T). • FOUR options are given in each Multiple Choice Question based on List­I and List­II and ONLY ONE of these four options satisfies the condition asked in the Multiple Choice Question. • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 ONLY if the option corresponding to the correct combination is chosen; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : −1 In all other cases."
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.15 Consider the following lists: List-I List-II (I) {𝑥 ∈ [− 2𝜋 , 2𝜋 ]: cos𝑥+sin𝑥 =1} (P) has two elements 3 3 (II) {𝑥 ∈ [− 5𝜋 , 5𝜋 ]: √3 tan3𝑥 = 1} (Q) has three elements 18 18 (III) {𝑥 ∈[− 6𝜋 , 6𝜋 ]: 2 cos(2𝑥)= √3} (R) has four elements 5 5 (IV) {𝑥 ∈[− 7𝜋 , 7𝜋 ]: sin𝑥−cos𝑥 = 1} (S) has five elements 4 4 (T) has six elements The correct option is: (A) (I)→ (P); (II)→ (S); (III)→(P); (IV)→ (S) (B) (I) →(P); (II)→(P); (III)→(T); (IV)→(R) (C) (I) →(Q); (II)→(P); (III)→ (T); (IV)→ (S) (D) (I) →(Q); (II)→(S); (III)→(P); (IV)→(R) 6/9 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.16 Two players, 𝑃 and 𝑃 , play a game against each other. In every round of the game, each player rolls 1 2 a fair die once, where the six faces of the die have six distinct numbers. Let 𝑥 and 𝑦 denote the readings on the die rolled by 𝑃 and 𝑃 , respectively. If 𝑥 > 𝑦, then 𝑃 scores 5 points and 𝑃 scores 1 2 1 2 0 point. If 𝑥 = 𝑦, then each player scores 2 points. If 𝑥 < 𝑦, then 𝑃 scores 0 point and 𝑃 scores 5 1 2 points. Let 𝑋 and 𝑌 be the total scores of 𝑃 and 𝑃 , respectively, after playing the 𝑖𝑡ℎ round. 𝑖 𝑖 1 2 List-I List-II (I) Probability of (𝑋 2 ≥ 𝑌 2 ) is (P) 3 8 (II) Probability of (𝑋 2 > 𝑌 2 ) is (Q) 11 16 (III) Probability of (𝑋 3 = 𝑌 3 ) is (R) 5 16 (IV) Probability of (𝑋 3 > 𝑌 3 ) is (S) 355 864 (T) 77 432 The correct option is: (A) (I)→ (Q); (II)→ (R); (III)→(T); (IV)→(S) (B) (I)→ (Q); (II)→(R); (III)→(T); (IV)→(T) (C) (I)→ (P); (II)→ (R); (III)→(Q); (IV)→ (S) (D) (I)→ (P); (II)→ (R); (III)→(Q); (IV)→(T) 7/9 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.17 Let 𝑝,𝑞,𝑟 be nonzero real numbers that are, respectively, the 10𝑡ℎ, 100𝑡ℎ and 1000𝑡ℎ terms of a harmonic progression. Consider the system of linear equations 𝑥+𝑦+𝑧 = 1 10𝑥 +100𝑦+1000𝑧 = 0 𝑞𝑟 𝑥 +𝑝𝑟 𝑦+𝑝𝑞 𝑧 = 0 . List-I List-II 𝑞 10 1 (I) If = 10, then the system of linear (P) 𝑥 = 0, 𝑦 = , 𝑧 = − as a solution 𝑟 9 9 equations has 𝑝 10 1 (II) If ≠ 100, then the system of linear (Q) 𝑥 = , 𝑦 = − , 𝑧 = 0 as a solution 𝑟 9 9 equations has 𝑝 (III) If ≠ 10, then the system of linear (R) infinitely many solutions 𝑞 equations has 𝑝 (IV) If = 10, then the system of linear (S) no solution 𝑞 equations has (T) at least one solution The correct option is: (A) (I)→ (T); (II)→(R); (III)→ (S); (IV)→ (T) (B) (I)→ (Q); (II)→(S); (III)→ (S); (IV)→ (R) (C) (I)→(Q); (II)→(R);(III)→(P); (IV)→(R) (D) (I)→ (T); (II)→(S); (III)→(P); (IV)→ (T) 8/9 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.18 Consider the ellipse 𝑥2 𝑦2 + = 1 . 4 3 Let 𝐻(𝛼,0), 0 < 𝛼 < 2, be a point. A straight line drawn through 𝐻 parallel to the 𝑦-axis crosses the ellipse and its auxiliary circle at points 𝐸 and 𝐹 respectively, in the first quadrant. The tangent to the ellipse at the point 𝐸 intersects the positive 𝑥-axis at a point 𝐺. Suppose the straight line joining 𝐹 and the origin makes an angle 𝜙 with the positive 𝑥-axis. List-I List-II (I) If 𝜙 = 𝜋 , then the area of the triangle 𝐹𝐺𝐻 is (√3−1) 4 4 (P) 8 𝜋 (II) If 𝜙 = , then the area of the triangle 𝐹𝐺𝐻 is (Q) 1 3 (III) If 𝜙 = 𝜋 , then the area of the triangle 𝐹𝐺𝐻 is (R) 3 6 4 (IV) If 𝜙 = 𝜋 ,then the area of the triangle 𝐹𝐺𝐻 is (S) 1 12 2√3 3√3 (T) 2 The correct option is: (A) (I)→(R); (II)→(S); (III)→(Q); (IV)→(P) (B) (I)→(R); (II)→(T); (III)→(S); (IV)→(P) (C) (I)→(Q); (II)→(T); (III)→(S); (IV)→(P) (D) (I)→(Q); (II)→(S); (III)→(Q); (IV)→(P) END OF THE QUESTION PAPER 9/9 EIGHT (08) JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.5 At time 𝑡 =0, a disk of radius 1 m starts to roll without slipping on a horizontal plane with an angular acceleration of 𝛼 = � 𝑟𝑎𝑑 𝑠��. A small stone is stuck to the disk. At 𝑡 =0, it is at the � contact point of the disk and the plane. Later, at time 𝑡 = √𝜋 𝑠, the stone detaches itself and flies off tangentially from the disk. The maximum height (in m) reached by the stone measured from the plane is � + � . The value of x is _____. [Take 𝑔 =10 𝑚 𝑠��.] � ��"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.6 A solid sphere of mass 1 kg and radius 1 m rolls without slipping on a fixed inclined plane with an angle of inclination 𝜃 =30° from the horizontal. Two forces of magnitude 1 N each, parallel to the incline, act on the sphere, both at distance 𝑟 =0.5 m from the center of the sphere, as shown in the figure. The acceleration of the sphere down the plane is ____ 𝑚𝑠��. (Take 𝑔=10 𝑚 𝑠��.)"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.7 Consider an LC circuit, with inductance 𝐿 =0.1 𝐻 and capacitance 𝐶 =10��𝐹, kept ona plane. The area of the circuit is 1 𝑚�. It is placed in a constant magnetic field of strength 𝐵 which is � perpendicular to the plane of the circuit. At time 𝑡 =0, the magnetic field strength starts increasing linearly as 𝐵 =𝐵 +𝛽𝑡 with 𝛽 =0.04 𝑇𝑠��. The maximum magnitude of the � current in the circuit is _____ mA."
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.8 A projectile is fired from horizontal ground with speed 𝑣 and projection angle 𝜃. When the acceleration due to gravity is 𝑔, the range of the projectile is 𝑑. If at the highest point in its trajectory, the projectile enters a different region where the effective acceleration due to gravity is 𝑔� = � , then the new range is 𝑑� =𝑛𝑑. The value of n is _____. �.�� 2/12  JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.9 A medium having dielectric constant K >1 fills the space between the plates of a parallel plate capacitor. The plates have large area, and the distance between them is d. The capacitor is connected to a battery of voltage V, as shown in Figure (a). Now, both the plates are moved by a � distanceof fromtheiroriginalpositions,asshowninFigure(b). � d 𝑑 d 𝑑 2 2 V V Figure (a) Figure (b) In the process of going from the configuration depicted in Figure (a) to that in Figure (b), which of the following statement(s) is(are) correct? (A) The electric field inside the dielectric material is reduced by a factor of 2𝐾. � (B) The capacitance is decreased by a factor of . ��� (C) The voltage between the capacitor plates is increased bya factor of (𝐾+1). (D) The work done in the process DOES NOT depend on the presence of the dielectric material. 4/12 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.10 The figure shows a circuit having eight resistances of 1 Ω each, labelled 𝑅 to 𝑅 , and two ideal � � batteries with voltages ℰ =12 𝑉 and ℰ =6 𝑉. � � 𝑅 � 𝑅 � 𝑅 � ℰ � 𝑅 � ℰ � 𝑅 � 𝑅 � 𝑅 𝑅 � � Which of the following statement(s) is(are) correct? (A) The magnitude of current flowing through 𝑅 is 7.2 A. � (B) The magnitude of current flowing through 𝑅 is 1.2 A. � (C) The magnitude of current flowing through 𝑅 is 4.8 A. � (D) The magnitude of current flowing through 𝑅 is 2.4 A. � 5/12 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.11 An ideal gas of density 𝜌 =0.2 𝑘𝑔 𝑚�� enters a chimney of height ℎ at the rate of 𝛼 = 0.8 𝑘𝑔 𝑠�� from its lower end, and escapes through the upper end as shown in the figure. The cross-sectional area of the lower end is 𝐴 =0.1 𝑚� and the upper end is 𝐴 =0.4 𝑚�. The � � pressure and the temperature of the gas at the lowerend are 600 𝑃𝑎 and 300 𝐾, respectively, while its temperature at the upper end is 150 𝐾. The chimney is heat insulated so that the gas undergoes adiabatic expansion. Take 𝑔 =10 𝑚 𝑠�� and the ratio of specific heats of the gas 𝛾 =2. Ignore atmospheric pressure. Which of the following statement(s) is(are) correct? (A) The pressure of the gas at the upper end of the chimney is 300 𝑃𝑎. (B) The velocity of the gas at the lower end of the chimney is 40𝑚 𝑠�� and at the upper end is 20 𝑚 𝑠��. (C) The height of the chimney is 590 𝑚. (D) The density of the gas at the upper end is 0.05 𝑘𝑔 𝑚��."
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.12 Three plane mirrors form an equilateral triangle with each side of length 𝐿. There is a small hole at a distance 𝑙 >0 from one of the corners as shown in the figure. A ray of light is passed through the hole at an angle 𝜃 and can only come out through the same hole. The cross section of the mirror configuration and the ray of light lie on the same plane. Which of the following statement(s) is(are) correct? (A) The ray of light will come out for 𝜃 =30∘, for 0<𝑙 <𝐿. � (B) There is an angle for 𝑙 = at which the ray of light will come out after two reflections. � (C) The ray of light will NEVER come out for 𝜃 =60∘, and 𝑙 = � . � (D) The ray of lightwill come out for 𝜃 =60∘, and 0<𝑙 < � after six reflections. � 6/12 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.13 Six charges are placed around a regular hexagon of side length 𝑎 as shown in the figure. Five of them have charge 𝑞, and the remaining one has charge 𝑥. The perpendicular from each charge to the nearest hexagon side passes through the center O of the hexagon and is bisected by the side. Which of the following statement(s) is(are) correct in SI units? (A) When 𝑥 =𝑞, the magnitude of the electric field at O is zero. � (B) When 𝑥 =−𝑞, the magnitude of the electric field at O is . �� �� �� �� (C) When 𝑥 =2𝑞, the potential at O is . �√����� �� (D) When 𝑥 =−3𝑞, the potential at O is − . �√�����"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.14 The binding energy of nucleons in a nucleus can be affected by the pairwise Coulomb repulsion. Assume that all nucleons are uniformly distributed inside the nucleus. Let the binding energy of a proton be 𝐸 � and the binding energy of a neutron be 𝐸� in the nucleus. � � Which of the following statement(s) is(are) correct? (A) 𝐸 � −𝐸� is proportional to 𝑍(𝑍−1) where Z is the atomic number of the nucleus. � � (B) 𝐸 � � −𝐸 � � is proportional to 𝐴� � � where A is the mass number of the nucleus. (C) 𝐸 � −𝐸� is positive. � � � (D) 𝐸 increases if the nucleus undergoes a beta decay emitting a positron. � 7/12 FOUR (04) JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.16 List I describes four systems, each with two particles A and B in relative motion as shown in figures. List II gives possible magnitudes of their relative velocities (in 𝑚 𝑠��) at time 𝑡= � 𝑠. � List-I List-II (I) A and B are moving on a horizontal circle of radius 1 𝑚 with √��� (P) uniform angular speed 𝜔 =1 𝑟𝑎𝑑 𝑠��. The initial angular positions of � � A and B at time 𝑡 =0 are 𝜃 =0 and 𝜃 = , respectively. � (II) Projectiles A and B are fired (in the same vertical plane) at 𝑡 =0 �√���� (Q) and 𝑡 =0.1 𝑠 respectively, with the same speed 𝑣 = �� 𝑚 𝑠�� and at √� √� 45° from the horizontal plane. The initial separation between A and B is large enough so that they do not collide. (𝑔=10 𝑚 𝑠��). 𝑡=0.1𝑠 𝑡=0 45° 45° 𝐴 𝐵 (III) Two harmonic oscillators A and B moving in the x direction � � � according to 𝑥 =𝑥 sin and 𝑥 =𝑥 sin� + � respectively, � � � � �� �� � starting from 𝑡 =0. Take 𝑥 � =1 𝑚,𝑡 � =1 𝑠. 𝑡 𝜋 𝑥 =𝑥 𝑠𝑖𝑛 ( + ) � � 𝑡 2 � 𝐵 (R) √10 𝑥 𝑡 𝑥 =𝑥 𝑠𝑖𝑛 𝐴 � � 𝑡 � (IV) Particle A is rotating in a horizontal circular path of radius 1 𝑚 on the xy plane, with constant angular speed 𝜔 =1 𝑟𝑎𝑑 s��. Particle B is moving up at a constant speed 3 𝑚 𝑠�� in the vertical direction as shown in the figure. (Ignore gravity.) 𝑧 3 𝑚 𝑠�� (S) √2 𝐵 𝐴 𝑦 𝑥 (T) √25𝜋�+1 Which one of the following options is correct? (A) I R, II  T, III  P, IV  S (B) I  S, II  P, III Q, IV  R (C) I  S, II  T, III  P, IV  R (D) I T, II  P, III  R, IV  S 9/12 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.17 List I describes thermodynamic processes in four different systems. List II gives the magnitudes (either exactly or as a close approximation) of possible changes in the internal energy of the system due to the process. List-I List-II (I) 10�� kg of water at 100°𝐶 is converted to steam at the (P) 2 kJ same temperature, at a pressure of 10� 𝑃𝑎. The volume of the system changes from 10�� 𝑚� to 10�� 𝑚� in the process. Latent heat of water = 2250 kJ/kg. (II) 0.2 moles of a rigid diatomic ideal gas with volume V (Q) 7 kJ at temperature 500 K undergoes an isobaric expansion to volume 3 V. Assume 𝑅 =8.0 𝐽 𝑚𝑜𝑙��𝐾��. (III) One mole of a monatomic ideal gas is compressed (R) 4 kJ adiabatically from volume 𝑉 = � 𝑚� and pressure 2 kPa � � to volume . � (IV) Three moles of a diatomic ideal gas whose molecules (S) 5 kJ can vibrate, is given 9 kJ of heat and undergoes isobaric expansion. (T) 3 kJ Which one of the following options is correct? (A) I  T, II  R, III  S, IV  Q, (B) I  S, II  P, III T, IV  P, (C) I  P, II  R, III  T, IV  Q. (D) I  Q, II  R, III  S, IV  T, 10/12 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.18 List I contains four combinations of two lenses (1 and 2) whose focal lengths (in cm) are indicated in the figures. In all cases, the object is placed 20 cm from the firstlens on the left, and the distance between the two lenses is 5 cm. List II contains the positions of the final images. List-I List-II (I) (P) Final image is formed at 7.5 cm on the f = +10 +15 right side of lens 2. O 5 cm 20 cm 1 2 (Q) Final image is formed at 60.0 cmon the right side of lens 2. f= +10 −10 (II) O (R) Final image is formed at 30.0 cm on the left side of lens 2. 20 cm 1 5 c m 2 (III) f = +10 −20 (S) Final image is formed at 6.0 cm on the right side of lens 2. O 20 cm 1 5 c m 2 (IV) f = −20 +10 O 5 cm 20 cm 1 2 (T) Final image is formed at 30.0 cm on the right side of lens 2. Which one of the following options is correct? (A) (I)  P; (II)  R; (III)  Q; (IV)  T (B) (I)  Q; (II)  P; (III)  T; (IV)  S (C) (I)  P; (II)  T; (III)  R; (IV)  Q (D) (I)  T; (II)  S; (III)  Q; (IV)  R 11/12 JEE (Advanced) 2022 Paper 1 END OF THE QUESTION PAPER 12/12 JEE (Advanced) 2022 Paper 1 SECTION 1 (Maximum Marks: 24) • This section contains EIGHT (08) questions. • The answer to each question is a NUMERICAL VALUE. • For each question, enter the correct numerical value of the answer using the mouse and the on­screen virtual numeric keypad in the place designated to enter the answer. If the numerical value has more than two decimal places, truncate/round­off the value to TWO decimal places. • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 ONLY if the correct numerical value is entered; Zero Marks : 0 In all other cases."
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.1 2 mol of Hg(g) is combusted in a fixed volume bomb calorimeter with excess of O at 298 K and 2 1 atm into HgO(s). During the reaction, temperature increases from 298.0 K to 312.8 K. If heat capacity of the bomb calorimeter and enthalpy of formation of Hg(g) are 20.00 kJ K-1 and 61.32 kJ mol-1 at 298 K, respectively, the calculated standard molar enthalpy of formation of HgO(s) at 298 K is X kJ mol-1. The value of |X| is _______. [Given: Gas constant R = 8.3 J K-1 mol-1]"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.2 The reduction potential (E0, in V) of MnO−(aq)/Mn(s) is ______. 4 [Given: 𝐸0 = 1.68 V; 𝐸0 = 1.21 V; 𝐸0 = –1.03 V ] (MnO 4 –(aq)/MnO2(s)) (MnO2(s)/Mn2+(aq)) (Mn2+(aq)/Mn(s)) 1/10 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.3 A solution is prepared by mixing 0.01 mol each of H CO , NaHCO , Na CO , and NaOH in 2 3 3 2 3 100 mL of water. pH of the resulting solution is _______. [Given: pK and pK of H CO are 6.37 and 10.32, respectively; log 2 = 0.30] a1 a2 2 3"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.4 The treatment of an aqueous solution of 3.74 g of Cu(NO ) with excess KI results in a brown 3 2 solution along with the formation of a precipitate. Passing H S through this brown solution gives 2 another precipitate X. The amount of X (in g) is ________. [Given: Atomic mass of H = 1, N = 14, O = 16, S = 32, K = 39, Cu = 63, I = 127]"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.5 Dissolving 1.24 g of white phosphorous in boiling NaOH solution in an inert atmosphere gives a gas Q. The amount of CuSO (in g) required to completely consume the gas Q is _______. 4 [Given: Atomic mass of H = 1, O = 16, Na = 23, P = 31, S = 32, Cu = 63] 2/10 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.6 Consider the following reaction. On estimation of bromine in 1.00 g of R using Carius method, the amount of AgBr formed (in g) is ________. [Given: Atomic mass of H = 1, C = 12, O = 16, P = 31, Br = 80, Ag = 108]"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.7 The weight percentage of hydrogen in Q, formed in the following reaction sequence, is ________. [Given: Atomic mass of H = 1, C = 12, N = 14, O = 16, S = 32, Cl = 35]"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.8 If the reaction sequence given below is carried out with 15 moles of acetylene, the amount of the product D formed (in g) is ________. The yields of A, B, C and D are given in parentheses. [Given: Atomic mass of H = 1, C = 12, O = 16, Cl = 35] 3/10  JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.11 The electrochemical extraction of aluminum from bauxite ore involves (A) the reaction of Al O with coke (C) at a temperature > 2500 ºC. 2 3 (B) the neutralization of aluminate solution by passing CO gas to precipitate hydrated alumina 2 (Al O ·3H O). 2 3 2 (C) the dissolution of Al O in hot aqueous NaOH. 2 3 (D) the electrolysis of Al O mixed with Na AlF to give Al and CO . 2 3 3 6 2"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.12 The treatment of galena with HNO produces a gas that is 3 (A) paramagnetic (B) bent in geometry (C) an acidic oxide (D) colorless"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.13 Considering the reaction sequence given below, the correct statement(s) is(are) (A) P can be reduced to a primary alcohol using NaBH . 4 (B) Treating P with conc. NH OH solution followed by acidification gives Q. 4 (C) Treating Q with a solution of NaNO in aq. HCl liberates N . 2 2 (D) P is more acidic than CH CH COOH. 3 2 5/10 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.14 Considering the following reaction sequence, the correct option(s) is(are) (A) (B) (C) (D) 6/10 JEE (Advanced) 2022 Paper 1 SECTION 3 (Maximum Marks: 12) • This section contains FOUR (04) Matching List Sets. • Each set has ONE Multiple Choice Question. • Each set has TWO lists: List­I and List­II. • List­I has Four entries (I), (II), (III) and (IV) and List­II has Five entries (P), (Q), (R), (S) and (T). • FOUR options are given in each Multiple Choice Question based on List­I and List­II and ONLY ONE of these four options satisfies the condition asked in the Multiple Choice Question. • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 ONLY if the option corresponding to the correct combination is chosen; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : −1 In all other cases. 7/10 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.15 Match the rate expressions in LIST-I for the decomposition of X with the corresponding profiles provided in LIST-II. X and k are constants having appropriate units. s LIST-I LIST-II (I) 8/10 r u a n t e d e = r a X l k [ + s l p X o [ ] X s s ] i b l e i n i t i a l c o n c e n t r a t i o n s o f X (P) (II) r w m a t h u e = e r c h k [ X X + [ s e i n i t i a l e s s t h ] X ] l c o n a n X c e s n t r a t i o n s o f X a r e (Q) (III) r w m a t h u e = e r c h X e i n h i k [ X ] + [ X s i t i a l c g h e r t ] o h n a c n e X n t s r a t i o n s o f X a r e (R) (IV) (S) k[X]2 rate = X +[X] s where initial concentration of X is much higher than X s (T) (A) I→ P; II→ Q; III → S; IV → T (B) I→ R; II→ S; III → S; IV → T (C) I→ P; II→ Q; III → Q; IV → R (D) I→ R; II→ S; III → Q; IV → R JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.16 LIST-I contains compounds and LIST-II contains reactions LIST-I LIST-II (I) H O (P) Mg(HCO ) + Ca(OH) → 2 2 3 2 2 (II) Mg(OH) (Q) BaO + H SO → 2 2 2 4 (III) BaCl (R) Ca(OH) + MgCl → 2 2 2 (IV) CaCO (S) BaO + HCl → 3 2 (T) Ca(HCO ) + Ca(OH) → 3 2 2 Match each compound in LIST-I with its formation reaction(s) in LIST-II, and choose the correct option (A) I → Q; II → P; III → S; IV → R (B) I → T; II → P; III → Q; IV → R (C) I → T; II → R; III → Q; IV → P (D) I → Q; II → R; III → S; IV → P"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.17 LIST-I contains metal species and LIST-II contains their properties. LIST-I LIST-II (I) [Cr(CN) ] 4– (P) t orbitals contain 4 electrons 6 2g (II) [RuCl ] 2– (Q) µ(spin-only) = 4.9 BM 6 (III) [Cr(H O) ] 2+ (R) low spin complex ion 2 6 (IV) [Fe(H O) ] 2+ (S) metal ion in 4+ oxidation state 2 6 (T) d 4 species [Given: Atomic number of Cr = 24, Ru = 44, Fe = 26] Match each metal species in LIST-I with their properties in LIST-II, and choose the correct option (A) I → R, T; II → P, S; III → Q, T; IV → P, Q (B) I → R, S; II → P, T; III → P, Q; IV → Q, T (C) I → P, R; II → R, S; III → R, T; IV → P, T (D) I → Q, T; II → S, T; III → P, T; IV → Q, R 9/10 JEE (Advanced) 2022 Paper 1"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.18 Match the compounds in LIST-I with the observations in LIST-II, and choose the correct option. LIST-I LIST-II (I) Aniline (P) Sodium fusion extract of the compound on boiling with FeSO , followed by 4 acidification with conc. H SO , gives 2 4 Prussian blue color. (II) o-Cresol (Q) Sodium fusion extract of the compound on treatment with sodium nitroprusside gives blood red color. (III) Cysteine (R) Addition of the compound to a saturated solution of NaHCO results in 3 effervescence. (IV) Caprolactam (S) The compound reacts with bromine water to give a white precipitate. (T) Treating the compound with neutral FeCl 3 solution produces violet color. (A) I→P,Q; II→S; III→Q,R; IV→P (B) I→P; II→R,S; III→R; IV→Q,S (C) I→Q,S; II→P,T; III→P; IV→S (D) I→P,S; II→T; III→Q,R; IV→P END OF THE QUESTION PAPER 10/10"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.1 Let 𝛼 and 𝛽 be real numbers such that − 𝜋 < 𝛽 < 0 < 𝛼 < 𝜋 . If sin(𝛼+𝛽)= 1 and 4 4 3 2 cos(𝛼−𝛽)= , then the greatest integer less than or equal to 3 sin𝛼 cos𝛽 cos𝛼 sin𝛽 2 ( + + + ) cos𝛽 sin𝛼 sin𝛽 cos𝛼 is _____________."
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.2 If 𝑦(𝑥) is the solution of the differential equation 𝑥𝑑𝑦−(𝑦2−4𝑦)𝑑𝑥 = 0 for 𝑥 > 0, 𝑦(1)= 2, and the slope of the curve 𝑦 = 𝑦(𝑥) is never zero, then the value of 10 𝑦(√2 ) is _____________."
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.3 The greatest integer less than or equal to 2 log29 1 ∫ log 2 (𝑥3+1)𝑑𝑥 + ∫ (2𝑥 −1) 3𝑑𝑥 1 1 is _____________."
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.4 The product of all positive real values of 𝑥 satisfying the equation 𝑥(16(log 5 𝑥)3−68 log 5 𝑥) = 5−16 is __________ . 1/8 JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.5 If 1 1 𝑒𝑥3 −(1−𝑥3)3+((1−𝑥2)2−1)sin𝑥 𝛽 = lim , 𝑥→0 𝑥sin2𝑥 then the value of 6𝛽 is ___________."
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.6 Let 𝛽 be a real number. Consider the matrix 𝛽 0 1 𝐴 = ( 2 1 −2) . 3 1 −2 If 𝐴7 −(𝛽 −1)𝐴6 −𝛽𝐴5 is a singular matrix, then the value of 9𝛽 is ___________."
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.7 Consider the hyperbola 𝑥2 𝑦2 − = 1 100 64 with foci at 𝑆 and 𝑆 , where 𝑆 lies on the positive x-axis. Let 𝑃 be a point on the hyperbola, in the 1 𝜋 first quadrant. Let ∠𝑆𝑃𝑆 = 𝛼,with 𝛼 < . The straight line passing through the point 𝑆 and 1 2 having the same slope as that of the tangent at 𝑃 to the hyperbola, intersects the straight line 𝑆 𝑃 at 1 𝑃 . Let 𝛿 be the distance of 𝑃 from the straight line 𝑆𝑃 , and 𝛽 =𝑆 𝑃. Then the greatest integer 1 1 1 βδ 𝛼 less than or equal to sin is _____________. 9 2"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.8 Consider the functions 𝑓, 𝑔 ∶ ℝ →ℝ defined by 4|𝑥| 3 2(1− ), |𝑥|≤ , 5 3 4 𝑓(𝑥)= 𝑥2+ and 𝑔(𝑥)= 12 3 0 , |𝑥|> . { 4 If 𝛼 is the area of the region 3 {(𝑥,𝑦)∈ ℝ×ℝ ∶ |𝑥|≤ , 0 ≤ 𝑦 ≤ min{𝑓(𝑥),𝑔(𝑥)} } , 4 then the value of 9𝛼 is _____________. 2/8  JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.10 Let ∞ 𝜋 𝛼 = ∑sin2𝑘( ) . 6 𝑘=1 Let 𝑔 ∶ [0,1]→ ℝ be the function defined by 𝑔(𝑥) =2𝛼𝑥 +2𝛼(1−𝑥) . Then, which of the following statements is/are TRUE ? 7 (A) The minimum value of 𝑔(𝑥) is 26 1 (B) The maximum value of 𝑔(𝑥) is 1+23 (C) The function 𝑔(𝑥) attains its maximum at more than one point (D) The function 𝑔(𝑥) attains its minimum at more than one point"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.11 Let 𝑧̅ denote the complex conjugate of a complex number 𝑧. If 𝑧 is a non-zero complex number for which both real and imaginary parts of 1 ( 𝑧̅ )2+ 𝑧2 are integers, then which of the following is/are possible value(s) of |𝑧| ? 1 1 43+3√205 4 7+√33 4 (A) ( ) (B) ( ) 2 4 1 1 9+√65 4 7+√13 4 (C) ( ) (D) ( ) 4 6 4/8 JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.12 Let 𝐺 be a circle of radius 𝑅 > 0. Let 𝐺 ,𝐺 ,…,𝐺 be 𝑛 circles of equal radius 𝑟 > 0. Suppose 1 2 𝑛 each of the 𝑛 circles 𝐺 ,𝐺 ,…,𝐺 touches the circle 𝐺 externally. Also, for 𝑖 = 1,2,…,𝑛−1, the 1 2 𝑛 circle 𝐺 touches 𝐺 externally, and 𝐺 touches 𝐺 externally. Then, which of the following 𝑖 𝑖+1 𝑛 1 statements is/are TRUE ? (A) If 𝑛 = 4, then (√2−1)𝑟 < 𝑅 (B) If 𝑛 =5, then 𝑟 < 𝑅 (C) If 𝑛 =8, then (√2−1) 𝑟 < 𝑅 (D) If 𝑛 = 12, then √2 (√3+1) 𝑟 > 𝑅"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.13 Let 𝑖,̂ 𝑗̂ and 𝑘̂ be the unit vectors along the three positive coordinate axes. Let 𝑎⃗ = 3𝑖̂+𝑗̂−𝑘̂ , 𝑏⃗⃗ = 𝑖̂+𝑏 𝑗̂+𝑏 𝑘̂ , 𝑏 ,𝑏 ∈ ℝ , 2 3 2 3 𝑐⃗= 𝑐 𝑖̂+𝑐 𝑗̂+𝑐 𝑘̂ , 𝑐 ,𝑐 ,𝑐 ∈ ℝ 1 2 3 1 2 3 be three vectors such that 𝑏 𝑏 > 0, 𝑎⃗ ⋅ 𝑏⃗⃗ = 0 and 2 3 0 −𝑐 𝑐 1 3−𝑐 3 2 1 ( 𝑐 0 −𝑐 )(𝑏 ) = ( 1−𝑐 ) . 3 1 2 2 −𝑐 𝑐 0 𝑏 −1−𝑐 2 1 3 3 Then, which of the following is/are TRUE ? (A) 𝑎⃗ ⋅𝑐⃗ = 0 (B) 𝑏⃗⃗⋅𝑐⃗= 0 (C) |𝑏⃗⃗| > √10 (D) |𝑐⃗| ≤ √11 5/8 JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.14 For 𝑥 ∈ ℝ, let the function 𝑦(𝑥) be the solution of the differential equation 𝑑𝑦 𝜋 +12𝑦 = cos( 𝑥), 𝑦(0) = 0 . 𝑑𝑥 12 Then, which of the following statements is/are TRUE ? (A) 𝑦(𝑥) is an increasing function (B) 𝑦(𝑥) is a decreasing function (C) There exists a real number 𝛽 such that the line 𝑦 = 𝛽 intersects the curve 𝑦 = 𝑦(𝑥) at infinitely many points (D) 𝑦(𝑥) is a periodic function 6/8 JEE (Advanced) 2022 Paper 2 SECTION 3 (Maximum marks: 12) • This section contains FOUR (04) questions. • Each question has FOUR options (A), (B), (C) and (D). ONLY ONE of these four options is the correct answer. • For each question, choose the option corresponding to the correct answer. • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 If ONLY the correct option is chosen; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : −1 In all other cases."
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.15 Consider 4 boxes, where each box contains 3 red balls and 2 blue balls. Assume that all 20 balls are distinct. In how many different ways can 10 balls be chosen from these 4 boxes so that from each box at least one red ball and one blue ball are chosen ? (A) 21816 (B) 85536 (C) 12096 (D) 156816"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.16 5 3 If 𝑀 = ( 2 2 ) , then which of the following matrices is equal to 𝑀2022 ? 3 1 − − 2 2 3034 3033 (A) ( ) −3033 −3032 3034 −3033 (B) ( ) 3033 −3032 3033 3032 (C) ( ) −3032 −3031 3032 3031 (D) ( ) −3031 −3030 7/8 JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "maths",
+        "question": "Q.17 Suppose that Box-I contains 8 red, 3 blue and 5 green balls, Box-II contains 24 red, 9 blue and 15 green balls, Box-III contains 1 blue, 12 green and 3 yellow balls, Box-IV contains 10 green, 16 orange and 6 white balls. A ball is chosen randomly from Box-I; call this ball 𝑏. If 𝑏 is red then a ball is chosen randomly from Box-II, if 𝑏 is blue then a ball is chosen randomly from Box-III, and if 𝑏 is green then a ball is chosen randomly from Box-IV. The conditional probability of the event ‘one of the chosen balls is white’ given that the event ‘at least one of the chosen balls is green’ has happened, is equal to 15 3 (A) (B) 256 16 5 1 (C) (D) 52 8"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.18 For positive integer 𝑛, define 16+5𝑛−3𝑛2 32+𝑛−3𝑛2 48−3𝑛−3𝑛2 25𝑛−7𝑛2 𝑓(𝑛)= 𝑛+ + + + ⋯ + . 4𝑛+3𝑛2 8𝑛+3𝑛2 12𝑛+3𝑛2 7𝑛2 Then, the value of lim𝑓(𝑛) is equal to 𝑛→∞ 4 3 7 (A) 3+ 3 log 𝑒 7 (B) 4− 4 log 𝑒 ( 3 ) 4 7 3 (C) 4− 3 log 𝑒 ( 3 ) (D) 3+ 4 log 𝑒 7 END OF THE QUESTION PAPER 8/8 EIGHT (08) JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.4 In a particular system of units, a physical quantity can be expressed in terms of the electric charge � 𝑒, electron mass 𝑚 , Planck’s constant ℎ, and Coulomb’s constant 𝑘 = , where 𝜖 is the � � ���� permittivity of vacuum. In terms of these physical constants, the dimension of the magnetic field is [𝐵]=[𝑒]�[𝑚 ]�[ℎ]�[𝑘]�. The value of 𝛼+𝛽+𝛾+𝛿 is ____ . �"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.5 Consider a configuration of n identical units, each consisting of three layers. The first layer is a � column of air of height ℎ = 𝑐𝑚, and the second and third layers are of equal thickness 𝑑 = � √��� � 𝑐𝑚, and refractive indices 𝜇 =� and 𝜇 =√3 , respectively. A light source O is placed � � � � on the top of the first unit, as shown in the figure. A ray of light from O is incident on the second layer of the first unit at an angle of 𝜃 =60° to the normal. For a specific value of n, the � ray of light emerges from the bottom of the configuration at a distance 𝑙 = 𝑐𝑚, as shown in √� the figure. The value of n is ____. nunits"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.6 A charge 𝑞 is surrounded by a closed surface consisting of an inverted cone of height ℎ and base radius 𝑅, and a hemisphere of radius 𝑅 as shown in the figure. The electric flux through � � the conical surface is (in SI units). The value of 𝑛 is ________ . � �� 2/10 JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.7 On a frictionless horizontal plane, a bob of mass 𝑚 =0.1 𝑘𝑔 is attached to a spring with natural length 𝑙 =0.1 𝑚. The spring constant is 𝑘 =0.009 𝑁𝑚�� when the length of the � � spring 𝑙 >𝑙 and is 𝑘 =0.016 𝑁𝑚�� when 𝑙 <𝑙 . Initially the bob is released from 𝑙 = � � � 0.15 𝑚. Assume that Hooke’s law remains valid throughout the motion. If the time period of the full oscillation is 𝑇 =(𝑛 𝜋) 𝑠 , then the integer closest to 𝑛 is ____."
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.8 An object and a concave mirror of focal length 𝑓 =10 𝑐𝑚 both move along the principal axis of the mirror with constant speeds. The object moves with speed 𝑉 =15 𝑐𝑚 𝑠�� towards the mirror � with respect to a laboratory frame. The distance between the object and the mirror at a given moment is denoted by 𝑢. When 𝑢 =30 𝑐𝑚, the speed of the mirror 𝑉 is such that the image is � instantaneously at rest with respect to the laboratory frame, and the object forms a real image. The magnitude of 𝑉 is _____ 𝑐𝑚 𝑠��. � 3/10  JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.10 In Circuit-1 and Circuit-2 shown in the figures, 𝑅 = 1 Ω, 𝑅 = 2Ω and 𝑅 = 3 Ω. � � � 𝑃 � and 𝑃 � are the power dissipations in Circuit-1 and Circuit-2 when the switches S 1 and S 2 are in open conditions, respectively. 𝑄 � and 𝑄 � are the power dissipations in Circuit-1 and Circuit-2 when the switches S 1 and S 2 are in closed conditions, respectively. R 1 R 1 R 2 R 3 R 2 S 1 R /2 R 3 1 A B S 2 2R 3 Circuit-1 A B Circuit-2 Which of the following statement(s) is(are) correct? (A) When a voltage source of 6 𝑉 is connected across A and B in both circuits, 𝑃 <𝑃 . � � (B) When a constant current source of 2 𝐴𝑚𝑝 is connected across A and B in both circuits, 𝑃 > 𝑃 . � � (C) When a voltage source of 6 𝑉 is connected across A and B in Circuit-1, 𝑄 >𝑃 . � � (D) When a constant current source of 2 𝐴𝑚𝑝 is connected across A and B in both circuits, 𝑄 <𝑄 . � �"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.11 A bubble has surface tension S. The ideal gas inside the bubble has ratio of specific heats 𝛾 = � . The bubble is exposed to the atmosphere and it always retains its spherical shape. When � the atmospheric pressure is 𝑃 , the radius of the bubble is found to be 𝑟 and the �� � temperature of the enclosed gas is 𝑇 . When the atmospheric pressure is 𝑃 , the radius of the � �� bubble and the temperature of the enclosed gas are 𝑟 and 𝑇 , respectively. � � Which of the following statement(s) is(are) correct? �� (A) If the surface of the bubble is a perfect heat insulator, then � ��� � = ���� ��. �� ���� � �� � (B) If the surface of the bubble is a perfect heat insulator, then the total internal energy of the bubble including its surface energy does not change with the external atmospheric pressure. (C) If the surface of the bubble is a perfect heat conductor and the change in atmospheric �� temperature is negligible, then � ��� � = ���� �� . �� ���� � �� � � �� (D) If the surface of the bubble is a perfect heat insulator, then � ���� = ���� ��. �� ���� � �� � 5/10 JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.12 A disk of radius R with uniform positive charge density 𝜎 is placed on the xy plane with its center at the origin. The Coulomb potential along the z-axis is 𝜎 𝑉(𝑧)= ��𝑅�+𝑧�−𝑧�. 2𝜖 � A particle of positive charge 𝑞 is placed initially at rest at a point on the z axis with 𝑧 =𝑧 and � 𝑧 >0. In addition to the Coulomb force, the particle experiences a vertical force 𝐹⃗ = −𝑐 𝑘� with � 𝑐 >0. Let 𝛽 = ����. Which of the following statement(s) is(are) correct? �� � �� (A) For 𝛽 = and 𝑧 = 𝑅, the particle reaches the origin. � � � � � (B) For 𝛽 = and 𝑧 = 𝑅, the particle reaches the origin. � � � � � (C) For 𝛽 = and 𝑧 = , the particle returns back to 𝑧 =𝑧 . � � � √� (D) For 𝛽 >1 and 𝑧 >0, the particle always reaches the origin. �"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.13 A double slit setup is shown in the figure. One of the slits is in medium 2 of refractive index 𝑛 . The other slit is at the interface of this medium with another medium 1 of refractive index � 𝑛 (≠𝑛 ). The line joining the slits is perpendicular to the interface and the distance between � � the slits is 𝑑. The slit widths are much smaller than d. A monochromatic parallel beam of light is incident on the slits from medium 1. A detector is placed in medium 2 at a large distance from the slits, and at an angle 𝜃 from the line joining them, so that 𝜃 equals the angle of refraction of the beam. Consider two approximately parallel rays from the slits received by the detector. Which of the following statement(s) is(are) correct? (A) The phase difference between the two rays is independent of 𝑑. (B) The two rays interfere constructively at the detector. (C) The phase difference between the two rays depends on 𝑛 but is independent of 𝑛 . � � (D) The phase difference between the two rays vanishes only for certain values of 𝑑 and the angle of incidence of the beam, with 𝜃 being the corresponding angle of refraction. 6/10 JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.14 � In the given P-V diagram, a monoatomic gas (γ= ) is first compressed adiabatically from state A � � �.� to state B. Then it expands isothermally from state B to state C. [Given: � � ≃0.5, ln 2≃0.7 ]. � 𝑃 (𝑘𝑃𝑎) Which of the following statement(s) is(are) correct? (A) The magnitude of the total work done in the process 𝐴→𝐵 →𝐶 is 144 kJ. (B) The magnitude of the work done in the process 𝐵 →𝐶 is84 kJ. (C) The magnitude of the work done in the process 𝐴→𝐵 is60 kJ. (D) The magnitude of the work done in the process 𝐶 →𝐴 is zero. 7/10 FOUR (04) JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.15 A flat surface of a thin uniform disk A of radius R is glued to a horizontal table. Another thin uniform disk B of mass 𝑀 and with the same radius 𝑅 rolls without slipping on the circumference of A, as shown in the figure. A flat surface of B also lies on the plane of the table. The center of mass of B has fixed angular speed 𝜔 about the vertical axis passing through the center of A. The angular momentum of B is 𝑛𝑀ω𝑅� with respect to the center of A. Which of the following is the value of n? (A) 2 (B) 5 (C) ) � (D) ) � � �"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.16 When light of a given wavelength is incident on a metallic surface, the minimum potential needed to stop the emitted photoelectrons is 6.0 𝑉. This potential drops to 0.6 𝑉 if another source with wavelength four times that of the first one and intensity half of the first one is used. What are the �� wavelength of the first source and the work function of the metal, respectively? [Take = 1.24× � 10�� 𝐽 𝑚 𝐶��.] (A) 1.72 x 10-7 m, 1.20 eV (B) 1.72 x 10-7 m, 5.60 eV (C) 3.78 x 10-7 m, 5.60 eV (D) 3.78 x 10-7 m, 1.20 eV 9/10 JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "physics",
+        "question": "Q.17 Area of the cross-section of a wire is measured using a screw gauge. The pitch of the main scale is 0.5 mm. The circular scale has 100 divisions and for one full rotation of the circular scale, the main scale shifts by two divisions. The measured readings are listed below. Measurement condition Main scale reading Circular scale reading Two arms of gauge touching 0 division 4 divisions each other without wire Attempt-1: With wire 4 divisions 20 divisions Attempt-2: With wire 4 divisions 16 divisions What are the diameter and cross-sectional area of the wire measured using the screw gauge? (A) 2.22±0.02 𝑚𝑚, 𝜋(1.23±0.02)𝑚𝑚� (B) 2.22±0.01 𝑚𝑚, 𝜋(1.23±0.01)𝑚𝑚� (C) 2.14±0.02 𝑚𝑚, 𝜋(1.14±0.02)𝑚𝑚� (D) 2.14±0.01 𝑚𝑚, 𝜋(1.14±0.01)𝑚𝑚�"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.18 Which one of the following options represents the magnetic field 𝐵�⃗ at O due to the current flowing in the given wire segments lying on the xy plane? L/2 L/2 O 𝚥̂ L/4 L/4 I 𝚤 ̂ L 3L/4 I 𝑘� (A) 𝐵�⃗ = ���� � � + � �𝑘� (B) 𝐵�⃗ =− ��� � � + � �𝑘� � � �√�� � � �√�� (C) 𝐵�⃗ = ���� �1+ � �𝑘� (D) 𝐵�⃗ = ���� �1+ � �𝑘� � �√�� � �� END OF THE QUESTION PAPER 10/10 JEE (Advanced) 2022 Paper 2 SECTION 1 (Maximum marks: 24) • This section contains EIGHT (08) questions. • The answer to each question is a SINGLE DIGIT INTEGER ranging from 0 TO 9, BOTH INCLUSIVE. • For each question, enter the correct integer corresponding to the answer using the mouse and the on­ screen virtual numeric keypad in the place designated to enter the answer. • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 If ONLY the correct integer is entered; Zero Marks : 0 If the question is unanswered; Negative Marks : −1 In all other cases."
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.1 Concentration of H SO and Na SO in a solution is 1 M and 1.8 × 10–2 M, respectively. Molar 2 4 2 4 solubility of PbSO in the same solution is X × 10–Y M (expressed in scientific notation). The value 4 of Y is _________. [Given: Solubility product of PbSO (K ) = 1.6 × 10–8. For H SO , K is very large and 4 sp 2 4 a1 K = 1.2 × 10–2] a2"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.2 An aqueous solution is prepared by dissolving 0.1 mol of an ionic salt in 1.8 kg of water at 35 ºC. The salt remains 90% dissociated in the solution. The vapour pressure of the solution is 59.724 mm of Hg. Vapor pressure of water at 35 ºC is 60.000 mm of Hg. The number of ions present per formula unit of the ionic salt is _______. 1/8 JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.3 Consider the strong electrolytes Z X , U Y and V X . Limiting molar conductivity (0) of m n m p m n U Y and V X are 250 and 440 S cm 2 mol -1 , respectively. The value of (m + n + p) is _______. m p m n Given: Ion Z n+ U p+ V n+ X m- Y m- 0 (S cm 2 mol -1 ) 50.0 25.0 100.0 80.0 100.0 0 is the limiting molar conductivity of ions The plot of molar conductivity () of Z X vs c1/2 is given below. m n"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.4 The reaction of Xe and O F gives a Xe compound P. The number of moles of HF produced by the 2 2 complete hydrolysis of 1 mol of P is _______."
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.5 Thermal decomposition of AgNO produces two paramagnetic gases. The total number of electrons 3 present in the antibonding molecular orbitals of the gas that has the higher number of unpaired electrons is _______. 2/8 JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.6 The number of isomeric tetraenes (NOT containing sp-hybridized carbon atoms) that can be formed from the following reaction sequence is ________."
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.7 The number of -CH - (methylene) groups in the product formed from the following reaction 2 sequence is ________."
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.8 The total number of chiral molecules formed from one molecule of P on complete ozonolysis (O , Zn/H O) is ________. 3 2 3/8  JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.10 The correct option(s) about entropy (S) is(are) [R = gas constant, F = Faraday constant, T = Temperature] (A) For the reaction, M(s) + 2H + (aq) → H (g) + M 2+ (aq), if 𝑑𝐸𝑐𝑒𝑙𝑙 = 𝑅 , then the entropy change of 2 𝑑𝑇 𝐹 the reaction is R (assume that entropy and internal energy changes are temperature independent). + + (B) The cell reaction, Pt(s) | H (g, 1bar) | H (aq, 0.01M) || H (aq, 0.1M) | H (g, 1bar) | Pt(s), is an 2 2 entropy driven process. (C) For racemization of an optically active compound, S > 0. (D) S > 0, for [Ni(H O) ] 2+ + 3 en → [Ni(en) ] 2+ + 6H O (where en = ethylenediamine). 2 6 3 2"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.11 The compound(s) which react(s) with NH to give boron nitride (BN) is(are) 3 (A) B (B) B H (C) B O (D) HBF 2 6 2 3 4"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.12 The correct option(s) related to the extraction of iron from its ore in the blast furnace operating in the temperature range 900 – 1500 K is(are) (A) Limestone is used to remove silicate impurity. (B) Pig iron obtained from blast furnace contains about 4% carbon. (C) Coke (C) converts CO to CO. 2 (D) Exhaust gases consist of NO and CO. 2 5/8 JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.13 Considering the following reaction sequence, the correct statement(s) is(are) (A) Compounds P and Q are carboxylic acids. (B) Compound S decolorizes bromine water. (C) Compounds P and S react with hydroxylamine to give the corresponding oximes. (D) Compound R reacts with dialkylcadmium to give the corresponding tertiary alcohol."
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.14 Among the following, the correct statement(s) about polymers is(are) (A) The polymerization of chloroprene gives natural rubber. (B) Teflon is prepared from tetrafluoroethene by heating it with persulphate catalyst at high pressures. (C) PVC are thermoplastic polymers. (D) Ethene at 350-570 K temperature and 1000-2000 atm pressure in the presence of a peroxide initiator yields high density polythene. 6/8 JEE (Advanced) 2022 Paper 2 SECTION 3 (Maximum marks: 12) • This section contains FOUR (04) questions. • Each question has FOUR options (A), (B), (C) and (D). ONLY ONE of these four options is the correct answer. • For each question, choose the option corresponding to the correct answer. • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 If ONLY the correct option is chosen; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : −1 In all other cases."
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.15 Atom X occupies the fcc lattice sites as well as alternate tetrahedral voids of the same lattice. The packing efficiency (in %) of the resultant solid is closest to (A) 25 (B) 35 (C) 55 (D) 75"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.16 The reaction of HClO with HCl gives a paramagnetic gas, which upon reaction with O produces 3 3 (A) Cl O (B) ClO (C) Cl O (D) Cl O 2 2 2 6 2 7"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.17 The reaction of Pb(NO ) and NaCl in water produces a precipitate that dissolves upon the addition 3 2 of HCl of appropriate concentration. The dissolution of the precipitate is due to the formation of (A) PbCl (B) PbCl (C) [PbCl ] 2- (D) [PbCl ] 2- 2 4 4 6 7/8 JEE (Advanced) 2022 Paper 2"
+    },
+    {
+        "year": 2022,
+        "subject": "chemistry",
+        "question": "Q.18 Treatment of D-glucose with aqueous NaOH results in a mixture of monosaccharides, which are (A) (B) (C) (D) END OF THE QUESTION PAPER 8/8"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.1 Let S (0,1)(1,2)(3,4) and T {0,1,2,3}. Then which of the following statements is(are) true? (A) There are infinitely many functions from S to T (B) There are infinitely many strictly increasing functions from S to T (C) The number of continuous functions from S to T is at most 120 (D) Every continuous function from S to T is differentiable 1/10 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.2 x2 y2 Let T and T be two distinct common tangents to the ellipse E:  1 and the parabola 1 2 6 3 P:y2 12x. Suppose that the tangent T touches P and E at the points A and A , 1 1 2 respectively and the tangent T touches P and E at the points A and A , respectively. Then 2 4 3 which of the following statements is(are) true? (A) The area of the quadrilateral AA A A is 35 square units 1 2 3 4 (B) The area of the quadrilateral AA A A is 36 square units 1 2 3 4 (C) The tangents T and T meet the x-axis at the point (3,0) 1 2 (D) The tangents T and T meet the x-axis at the point (6,0) 1 2"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.3 x3 5 17 Let f :[0,1][0,1] be the function defined by f(x) x2  x . Consider the square 3 9 36 region S [0,1][0,1]. Let G{(x,y)S:y f(x)} be called the green region and R{(x,y)S:y f(x)} be called the red region. Let L {(x,h)S:x[0,1]} be the h horizontal line drawn at a heighth[0,1]. Then which of the following statements is(are) true? 1 2 (A) There exists an h , such that the area of the green region above the line L equals the  4 3   h area of the green region below the line L h 1 2 (B) There exists an h , such that the area of the red region above the line L equals the  4 3   h area of the red region below the line L h 1 2 (C) There exists an h , such that the area of the green region above the line L equals the  4 3   h area of the red region below the line L h 1 2 (D) There exists an h , such that the area of the red region above the line L equals the  4 3   h area of the green region below the line L h 2/10 JEE (Advanced) 2023 Paper 1 SECTION 2 (Maximum Marks: 12)  This section contains FOUR (04) questions.  Each question has FOUR options (A), (B), (C) and (D). ONLY ONE of these four options is the correct answer.  For each question, choose the option corresponding to the correct answer.  Answer to each question will be evaluated according to the following marking scheme: Full Marks : (cid:3397)3 If ONLY the correct option is chosen; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : (cid:3398)1 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.4  1 1 Let f :(0,1) be the function defined as f(x) n if x  ,  where n. Let n1 n x 1t g:(0,1) be a function such that  dt  g(x)2 x for all x(0,1). Then t x2 lim f(x)g(x) x0 (A) does NOT exist (B) is equal to 1 (C) is equal to 2 (D) is equal to 3"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.5 Let Q be the cube with the set of vertices  (x ,x ,x )3:x ,x ,x {0,1}  . LetF be the set 1 2 3 1 2 3 of all twelve lines containing the diagonals of the six faces of the cube Q. Let S be the set of all four lines containing the main diagonals of the cube Q; for instance, the line passing through the vertices (0,0,0) and (1,1,1) is in S. For lines  and  , let d( , ) denote the shortest 1 2 1 2 distance between them. Then the maximum value of d( , ), as  varies over F and  varies 1 2 1 2 over S , is 1 1 1 1 (A) (B) (C) (D) 6 8 3 12"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.6  x2 y2  Let X (x,y) :  1 and y2 5x. Three distinct points P, Q and R are  8 20  randomly chosen from X . Then the probability that P, Q and R form a triangle whose area is a positive integer, is 71 73 79 83 (A) (B) (C) (D) 220 220 220 220 3/10 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.7 Let Pbe a point on the parabola y2 4ax, where a0. The normal to the parabola at P meets the x-axis at a point Q. The area of the triangle PFQ, where F is the focus of the parabola, is 120. If the slope m of the normal and a are both positive integers, then the pair (a,m) is (A) (2,3) (B) (1,3) (C) (2,4) (D) (3,4) 4/10 JEE (Advanced) 2023 Paper 1 SECTION 3 (Maximum Marks: 24)  This section contains SIX (06) questions.  The answer to each question is a NON-NEGATIVE INTEGER.  For each question, enter the correct integer corresponding to the answer using the mouse and the on- screen virtual numeric keypad in the place designated to enter the answer.  Answer to each question will be evaluated according to the following marking scheme: Full Marks : (cid:3397)4 If ONLY the correct integer is entered; Zero Marks : 0 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.8    Let tan1(x)   ,  , forx. Then the number of real solutions of the equation  2 2  3      3 1cos(2x)  2tan1(tanx) in the set   ,     ,    ,   2 2  2 2  2 2  is equal to"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.9 Let n2be a natural number and f :[0,1] be the function defined by  1 n(12nx) if 0 x  2n   1 3 2n(2nx1) if  x  2n 4n f(x) 3 1  4n(1nx) if  x  4n n  n 1  nx1 if  x1 n1 n If n is such that the area of the region bounded by the curves x0, x1, y0 and y f(x) is 4 , then the maximum value of the function f is"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.10 r Let 7557 denote the (r2) digit number where the first and the last digits are 7 and 98 the remaining r digits are 5. Consider the sum S 7775775577557. If 99 7557m S  , where m and n are natural numbers less than 3000, then the value of n mn is 5/10 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.11 19671686 i sin  Let A : . If A contains exactly one positive integer n, then the  73icos  value of n is"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.12 Let P be the plane 3x2y3z 16and let S   iˆˆjk ˆ : 2 22 1 and the distance of (,,) from the plane P is 7 .  2          Let u,v and w be three distinct vectors in S such that |uv| = |vw| = |wu|. Let V be the    80 volume of the parallelepiped determined by vectors u,v and w. Then the value of V is 3"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.13 Let a and b be two nonzero real numbers. If the coefficient of x5 in the expansion of 4 7  70   1   ax2   is equal to the coefficient of x5 in the expansion of  ax  , then  27bx  bx2  the value of 2bis 6/10 JEE (Advanced) 2023 Paper 1 SECTION 4 (Maximum Marks: 12)  This section contains FOUR (04) Matching List Sets.  Each set has ONE Multiple Choice Question.  Each set has TWO lists: List-I and List-II.  List-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5).  FOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of these four options satisfies the condition asked in the Multiple Choice Question.  Answer to each question will be evaluated according to the following marking scheme: Full Marks : (cid:3397)3 ONLY if the option corresponding to the correct combination is chosen; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : (cid:3398)1 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.14 Let , and  be real numbers. Consider the following system of linear equations x2yz7 xz 11 2x3yz Match each entry in List-I to the correct entries in List-II. List-I List-II 1 (P) If  (73) and 28, then the (1) a unique solution 2 system has 1 (Q) If  (73) and 28, then the (2) no solution 2 system has 1 (R) If  (73) where 1 and (3) infinitely many solutions 2 28, then the system has 1 (S) If  (73) where 1 and (4) x11, y2 and z 0 as a solution 2 28, then the system has (5) x15, y4 and z 0 as a solution The correct option is: (A) (P)(3) (Q)(2) (R)(1) (S)(4) (B) (P)(3) (Q)(2) (R)(5) (S)(4) (C) (P)(2) (Q)(1) (R)(4) (S)(5) (D) (P)(2) (Q)(1) (R)(1) (S)(3) 7/10 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.15 Consider the given data with frequency distribution x 3 8 11 10 5 4 i f 5 2 3 2 4 4 i Match each entry in List-I to the correct entries in List-II. List-I List-II (P) The mean of the above data is (1) 2.5 (Q) The median of the above data is (2) 5 (R) The mean deviation about the mean of the (3) 6 above data is (S) The mean deviation about the median of (4) 2.7 the above datais (5) 2.4 The correct option is: (A) (P)(3) (Q)(2) (R)(4) (S)(5) (B) (P)(3) (Q)(2) (R)(1) (S)(5) (C) (P)(2) (Q)(3) (R)(4) (S)(1) (D) (P)(3) (Q)(3) (R)(5) (S)(5) 8/10 JEE (Advanced) 2023 Paper 1  "
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.16 Let  and  be the lines r (iˆ ˆjk ˆ ) and r (ˆjk ˆ )(iˆk ˆ ), respectively. Let X be 1 2 1 2 the set of all the planes H that contain the line  . For a plane H, let d(H) denote the smallest 1 possible distance between the points of  and H. Let H be a plane in X for which d(H ) is 2 0 0 the maximum value of d(H) as H varies over all planes in X . Match each entry in List-I to the correct entries in List-II. List-I List-II (P) The value of d(H ) is (1) 3 0 (Q) The distance of the point (0,1,2) from H is 1 0 (2) 3 (R) The distance of origin from H is (3) 0 0 (S) The distance of origin from the point of (4) 2 intersection of planes y z, x1 and H is 0 1 (5) 2 The correct option is: (A) (P)(2) (Q)(4) (R)(5) (S)(1) (B) (P)(5) (Q)(4) (R)(3) (S)(1) (C) (P)(2) (Q)(1) (R)(3) (S)(2) (D) (P)(5) (Q)(1) (R)(4) (S)(2)"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.17 Let z be a complex number satisfying |z|3 2z24z 80, where z denotes the complex conjugate of z. Let the imaginary part of z be nonzero. Match each entry in List-I to the correct entries in List-II. List-I List-II (P) |z|2is equal to (1) 12 (Q) |zz |2is equal to (2) 4 (R) |z|2 |zz |2is equal to (3) 8 (S) |z1|2is equal to (4) 10 (5)7 The correct option is: (A) (P)(1) (Q)(3) (R)(5) (S)(4) (B) (P)(2) (Q)(1) (R)(3) (S)(5) (C) (P)(2) (Q)(4) (R)(5) (S)(1) (D) (P)(2) (Q)(3) (R)(5) (S)(4) 9/10 JEE (Advanced) 2023 Paper 1 END OF THE QUESTION PAPER 10/10 JEE (Advanced) 2023 Paper 1 SECTION 1 (Maximum Marks: 12) • This section contains THREE (03) questions. • Each question has FOUR options (A), (B), (C) and (D). ONE OR MORE THAN ONE of these four option(s) is(are) correct answer(s). • For each question, choose the option(s) corresponding to (all) the correct answer(s). • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +4 ONLY if (all) the correct option(s) is(are) chosen; Partial Marks : +3 If all the four options are correct but ONLY three options are chosen; Partial Marks : +2 If three or more options are correct but ONLY two options are chosen, both of which are correct; Partial Marks : +1 If two or more options are correct but ONLY one option is chosen and it is a correct option; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : −2 In all other cases. • For example, in a question, if (A), (B) and (D) are the ONLY three options corresponding to correct answers, then choosing ONLY (A), (B) and (D) will get +4 marks; choosing ONLY (A) and (B) will get +2 marks; choosing ONLY (A) and (D) will get +2 marks; choosing ONLY (B) and (D) will get +2 marks; choosing ONLY (A) will get +1 mark; choosing ONLY (B) will get +1 mark; choosing ONLY (D) will get +1 mark; choosing no option (i.e. the question is unanswered) will get 0 marks; and choosing any other combination of options will get −2 marks. 1/9 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.1 A slide with a frictionless curved surface, which becomes horizontal at its lower end, is fixed on the terrace of a building of height 3ℎ from the ground, as shown in the figure. A spherical ball of mass 𝑚 is released on the slide from rest at a height ℎ from the top of the terrace. The ball leaves the slide with a velocity 𝑢⃗ = 𝑢 𝑥̂ and falls on the ground at a distance 𝑑 from the building making an 0 0 angle 𝜃 with the horizontal. It bounces off with a velocity v⃗ and reaches a maximum height ℎ . The 1 acceleration due to gravity is 𝑔 and the coefficient of restitution of the ground is 1⁄√3. Which of the following statement(s) is(are) correct? (A) u⃗ = √2𝑔ℎ𝑥̂ 0 (B) v⃗ = √2𝑔ℎ(𝑥̂−𝑧̂) (C) 𝜃 = 60° (D) 𝑑/ℎ = 2√3 1 2/9 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.2 A plane polarized blue light ray is incident on a prism such that there is no reflection from the surface of the prism. The angle of deviation of the emergent ray is 𝛿 = 60° (see Figure-1). The angle of minimum deviation for red light from the same prism is 𝛿 = 30° (see Figure-2). The min refractive index of the prism material for blue light is √3. Which of the following statement(s) is(are) correct? (A) The blue light is polarized in the plane of incidence. (B) The angle of the prism is 45°. (C) The refractive index of the material of the prism for red light is √2. (D) The angle of refraction for blue light in air at the exit plane of the prism is 60°."
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.3 In a circuit shown in the figure, the capacitor 𝐶 is initially uncharged and the key 𝐾 is open. In this condition, a current of 1 A flows through the 1 Ω resistor. The key is closed at time 𝑡 = 𝑡 . Which 0 of the following statement(s) is(are) correct? [Given: 𝑒−1 = 0.36] (A) The value of the resistance 𝑅 is 3 Ω. (B) For 𝑡 < 𝑡 , the value of current 𝐼 is 2 A. 0 1 (C) At 𝑡 = 𝑡 +7.2 𝜇s, the current in the capacitor is 0.6 A. 0 (D) For 𝑡 → ∞, the charge on the capacitor is 12 𝜇C. 3/9 JEE (Advanced) 2023 Paper 1 SECTION 2 (Maximum Marks: 12) • This section contains FOUR (04) questions. • Each question has FOUR options (A), (B), (C) and (D). ONLY ONE of these four options is the correct answer. • For each question, choose the option corresponding to the correct answer. • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 If ONLY the correct option is chosen; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : −1 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.4 A bar of mass 𝑀 = 1.00 kg and length 𝐿 = 0.20 m is lying on a horizontal frictionless surface. One end of the bar is pivoted at a point about which it is free to rotate. A small mass 𝑚 = 0.10 kg is moving on the same horizontal surface with 5.00 m s−1 speed on a path perpendicular to the bar. It hits the bar at a distance 𝐿/2 from the pivoted end and returns back on the same path with speed v. After this elastic collision, the bar rotates with an angular velocity 𝜔. Which of the following statement is correct? (A) 𝜔 = 6.98 rad s−1 and v = 4.30 m s−1 (B) 𝜔 = 3.75 rad s−1 and v = 4.30 m s−1 (C) 𝜔 = 3.75 rad s−1 and v = 10.0 m s−1 (D) 𝜔 = 6.80 rad s−1 and v = 4.10 m s−1"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.5 A container has a base of 50 cm×5 cm and height 50 cm, as shown in the figure. It has two parallel electrically conducting walls each of area 50 cm×50 cm. The remaining walls of the container are thin and non-conducting. The container is being filled with a liquid of dielectric constant 3 at a uniform rate of 250 cm3 s−1. What is the value of the capacitance of the container after 10 seconds? [Given: Permittivity of free space 𝜖 = 9×10−12 C2N−1m−2, the effects of the non-conducting 0 walls on the capacitance are negligible] (A) 27 pF (B) 63 pF (C) 81 pF (D) 135 pF 4/9 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.6 Owne mole of an ideal gas expands adiabatically from an initial state (𝑇 ,𝑉 ) to final state (𝑇,5𝑉 ). A 0 f 0 Another mole of the same gas expands isothermally from a different initial state (𝑇 ,𝑉 ) to the B 0 same final state (𝑇,5𝑉 ). The ratio of the specific heats at constant pressure and constant volume f 0 of this ideal gas is 𝛾. What is the ratio 𝑇 /𝑇 ? A B (A) 5𝛾−1 (B) 51−𝛾 (C) 5𝛾 (D) 51+𝛾"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.7 Two satellites P and Q are moving in different circular orbits around the Earth (radius 𝑅). The heights of P and Q from the Earth surface are ℎ and ℎ , respectively, where ℎ = 𝑅/3. The P Q P accelerations of P and Q due to Earth’s gravity are 𝑔 and 𝑔 , respectively. If 𝑔 /𝑔 = 36/25, P Q P Q what is the value of ℎ ? Q (A) 3𝑅/5 (B) 𝑅/6 (C) 6𝑅/5 (D) 5𝑅/6 5/9 JEE (Advanced) 2023 Paper 1 SECTION 3 (Maximum Marks: 24) • This section contains SIX (06) questions. • The answer to each question is a NON-NEGATIVE INTEGER. • For each question, enter the correct integer corresponding to the answer using the mouse and the on- screen virtual numeric keypad in the place designated to enter the answer. • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +4 If ONLY the correct integer is entered; Zero Marks : 0 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.8 A Hydrogen-like atom has atomic number 𝑍. Photons emitted in the electronic transitions from level 𝑛 = 4 to level 𝑛 = 3 in these atoms are used to perform photoelectric effect experiment on a target metal. The maximum kinetic energy of the photoelectrons generated is 1.95 eV. If the photoelectric threshold wavelength for the target metal is 310 nm, the value of 𝑍 is _______. [Given: ℎ𝑐 = 1240 eV-nm and 𝑅ℎ𝑐 = 13.6 eV, where 𝑅 is the Rydberg constant, ℎ is the Planck’s constant and 𝑐 is the speed of light in vacuum]"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.9 An optical arrangement consists of two concave mirrors M and M , and a convex lens L with a 1 2 common principal axis, as shown in the figure. The focal length of L is 10 cm. The radii of curvature of M and M are 20 cm and 24 cm, respectively. The distance between L and M is 1 2 2 20 cm. A point object S is placed at the mid-point between L and M on the axis. When the distance 2 between L and M is 𝑛/7 cm, one of the images coincides with S. The value of 𝑛 is _______. 1"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.10 In an experiment for determination of the focal length of a thin convex lens, the distance of the object from the lens is 10±0.1 cm and the distance of its real image from the lens is 20±0.2 cm. The error in the determination of focal length of the lens is 𝑛 %. The value of 𝑛 is _______. 6/9 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.11 A closed container contains a homogeneous mixture of two moles of an ideal monatomic gas (𝛾 = 5/3) and one mole of an ideal diatomic gas (𝛾 = 7/5). Here, 𝛾 is the ratio of the specific heats at constant pressure and constant volume of an ideal gas. The gas mixture does a work of 66 Joule when heated at constant pressure. The change in its internal energy is ________ Joule."
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.12 A person of height 1.6 m is walking away from a lamp post of height 4 m along a straight path on the flat ground. The lamp post and the person are always perpendicular to the ground. If the speed of the person is 60 cm s−1, the speed of the tip of the person’s shadow on the ground with respect to the person is _______ cm s−1."
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.13 Two point-like objects of masses 20 gm and 30 gm are fixed at the two ends of a rigid massless rod of length 10 cm. This system is suspended vertically from a rigid ceiling using a thin wire attached to its center of mass, as shown in the figure. The resulting torsional pendulum undergoes small oscillations. The torsional constant of the wire is 1.2×10−8 N m rad−1. The angular frequency of the oscillations in 𝑛×10−3 rad s−1. The value of 𝑛 is _____. 7/9 JEE (Advanced) 2023 Paper 1 SECTION 4 (Maximum Marks: 12) • This section contains FOUR (04) Matching List Sets. • Each set has ONE Multiple Choice Question. • Each set has TWO lists: List-I and List-II. • List-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5). • FOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of these four options satisfies the condition asked in the Multiple Choice Question. • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 ONLY if the option corresponding to the correct combination is chosen; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : −1 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.14 List-I shows different radioactive decay processes and List-II provides possible emitted particles. Match each entry in List-I with an appropriate entry from List-II, and choose the correct option. List-I List-II (P) 238𝑈 → 234𝑃𝑎 (1) one 𝛼 particle and one 𝛽+ particle 92 91 (Q) 214𝑃𝑏 → 210𝑃𝑏 (2) three 𝛽− particles and one 𝛼 particle 82 82 (R) 210𝑇𝑙 → 206𝑃𝑏 (3) two 𝛽− particles and one 𝛼 particle 81 82 (S) 228𝑃𝑎 → 224𝑅𝑎 (4) one 𝛼 particle and one 𝛽− particle 91 88 (5) one 𝛼 particle and two 𝛽+ particles (A) 𝑃 →4,𝑄 →3,𝑅 →2,𝑆 → 1 (B) 𝑃 →4,𝑄 →1,𝑅 →2,𝑆 → 5 (C) 𝑃 →5,𝑄 →3,𝑅 →1,𝑆 → 4 (D) 𝑃 →5,𝑄 →1,𝑅 →3,𝑆 → 2"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.15 Match the temperature of a black body given in List-I with an appropriate statement in List-II, and choose the correct option. [Given: Wien’s constant as 2.9×10−3 m-K and ℎ𝑐 = 1.24×10−6 V-m] 𝑒 List-I List-II (P) 2000 K (1) The radiation at peak wavelength can lead to emission of photoelectrons from a metal of work function 4 eV. (Q) 3000 K (2) The radiation at peak wavelength is visible to human eye. (R) 5000 K (3) The radiation at peak emission wavelength will result in the widest central maximum of a single slit diffraction. (S) 10000 K (4) The power emitted per unit area is 1/16 of that emitted by a blackbody at temperature 6000 K. (5) The radiation at peak emission wavelength can be used to image human bones. (A) 𝑃 →3,𝑄 →5,𝑅 →2,𝑆 → 3 (B) 𝑃 →3,𝑄 →2,𝑅 →4,𝑆 → 1 (C) 𝑃 →3,𝑄 →4,𝑅 →2,𝑆 → 1 (D) 𝑃 →1,𝑄 →2,𝑅 →5,𝑆 → 3 8/9 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.16 A series LCR circuit is connected to a 45sin(𝜔𝑡) Volt source. The resonant angular frequency of the circuit is 105 rad s−1 and current amplitude at resonance is 𝐼 . When the angular frequency of 0 the source is 𝜔 = 8×104 rad s−1, the current amplitude in the circuit is 0.05 𝐼 . If 𝐿 = 50 mH, 0 match each entry in List-I with an appropriate value from List-II and choose the correct option. List-I List-II (P) 𝐼 in mA (1) 44.4 0 (Q) The quality factor of the circuit (2) 18 (R) The bandwidth of the circuit in rad s−1 (3) 400 (S) The peak power dissipated at resonance in Watt (4) 2250 (5) 500 (A) 𝑃 →2,𝑄 →3,𝑅 →5,𝑆 → 1 (B) 𝑃 →3,𝑄 →1,𝑅 →4,𝑆 → 2 (C) 𝑃 →4,𝑄 →5,𝑅 →3,𝑆 → 1 (D) 𝑃 →4,𝑄 →2,𝑅 →1,𝑆 → 5"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.17 A thin conducting rod MN of mass 20 gm, length 25 cm and resistance 10 Ω is held on frictionless, long, perfectly conducting vertical rails as shown in the figure. There is a uniform magnetic field 𝐵 = 4 T directed perpendicular to the plane of the rod-rail arrangement. The rod is released from 0 rest at time 𝑡 = 0 and it moves down along the rails. Assume air drag is negligible. Match each quantity in List-I with an appropriate value from List-II, and choose the correct option. [Given: The acceleration due to gravity 𝑔 = 10 m s−2 and 𝑒−1 = 0.4] List-I List-II (P) At 𝑡 = 0.2 s, the magnitude of the induced emf in Volt (1) 0.07 (Q) At 𝑡 = 0.2 s, the magnitude of the magnetic force in Newton (2) 0.14 (R) At 𝑡 = 0.2 s, the power dissipated as heat in Watt (3) 1.20 (S) The magnitude of terminal velocity of the rod in m s−1 (4) 0.12 (5) 2.00 (A) 𝑃 →5,𝑄 →2,𝑅 →3,𝑆 → 1 (B) 𝑃 →3,𝑄 →1,𝑅 →4,𝑆 → 5 (C) 𝑃 →4,𝑄 →3,𝑅 →1,𝑆 → 2 (D) 𝑃 →3,𝑄 →4,𝑅 →2,𝑆 → 5 END OF THE QUESTION PAPER 9/9 JEE (Advanced) 2023 Paper 1 SECTION 1 (Maximum Marks: 12)  This section contains THREE (03) questions.  Each question has FOUR options (A), (B), (C) and (D). ONE OR MORE THAN ONE of these four option(s) is(are) correct answer(s).  For each question, choose the option(s) corresponding to (all) the correct answer(s).  Answer to each question will be evaluated according to the following marking scheme: Full Marks : +4 ONLY if (all) the correct option(s) is(are) chosen; Partial Marks : +3 If all the four options are correct but ONLY three options are chosen; Partial Marks : +2 If three or more options are correct but ONLY two options are chosen, both of which are correct; Partial Marks : +1 If two or more options are correct but ONLY one option is chosen and it is a correct option; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : −2 In all other cases.  For example, in a question, if (A), (B) and (D) are the ONLY three options corresponding to correct answers, then choosing ONLY (A), (B) and (D) will get +4 marks; choosing ONLY (A) and (B) will get +2 marks; choosing ONLY (A) and (D) will get +2 marks; choosing ONLY (B) and (D) will get +2 marks; choosing ONLY (A) will get +1 mark; choosing ONLY (B) will get +1 mark; choosing ONLY (D) will get +1 mark; choosing no option (i.e. the question is unanswered) will get 0 marks; and choosing any other combination of options will get −2 marks."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.1 The correct statement(s) related to processes involved in the extraction of metals is(are) (A) Roasting of Malachite produces Cuprite. (B) Calcination of Calamine produces Zincite. (C) Copper pyrites is heated with silica in a reverberatory furnace to remove iron. (D) Impure silver is treated with aqueous KCN in the presence of oxygen followed by reduction with zinc metal. 1/11 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.2 I)n the following reactions, P, Q, R, and S are the major products. The correct statement(s) about P, Q, R, and S is(are) (A) Both P and Q have asymmetric carbon(s). (B) Both Q and R have asymmetric carbon(s). (C) Both P and R have asymmetric carbon(s). (D) P has asymmetric carbon(s), S does not have any asymmetric carbon. 2/11 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.3 Consider the following reaction scheme and choose the correct option(s) for the major products Q, R and S. (A) (B) (C) (D) 3/11 JEE (Advanced) 2023 Paper 1 SECTION 2 (Maximum Marks: 12)  This section contains FOUR (04) questions.  Each question has FOUR options (A), (B), (C) and (D). ONLY ONE of these four options is the correct answer.  For each question, choose the option corresponding to the correct answer.  Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 If ONLY the correct option is chosen; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : −1 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.4 In the scheme given below, X and Y, respectively, are (A) CrO 2 and Br 4 2 (B) MnO 2 and Cl 4 2 (C) MnO  and Cl 4 2 (D) MnSO and HOCl 4"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.5 Plotting 1/Λ against cΛ for aqueous solutions of a monobasic weak acid (HX) resulted in a m m straight line with y-axis intercept of P and slope of S. The ratio P⁄S is [Λ = molar conductivity m  = limiting molar conductivity m c = molar concentration K =dissociation constant of HX] a (A) K  a m (B) K  /2 a m (C) 2 K  a m (D) 1 / (K  ) a m 4/11 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.6 On decreasing the 𝑝H from 7 to 2, the solubility of a sparingly soluble salt (MX) of a weak acid (HX) increased from 10−4 mol L−1 to 10−3 mol L−1. The 𝑝K of HX is a (A) 3 (B) 4 (C) 5 (D) 2"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.7 In the given reaction scheme, P is a phenyl alkyl ether, Q is an aromatic compound; R and S are the major products. The correct statement about S is (A) It primarily inhibits noradrenaline degrading enzymes. (B) It inhibits the synthesis of prostaglandin. (C) It is a narcotic drug. (D) It is ortho-acetylbenzoic acid. 5/11 JEE (Advanced) 2023 Paper 1 SECTION 3 (Maximum Marks: 24)  This section contains SIX (06) questions.  The answer to each question is a NON-NEGATIVE INTEGER.  For each question, enter the correct integer corresponding to the answer using the mouse and the on- screen virtual numeric keypad in the place designated to enter the answer.  Answer to each question will be evaluated according to the following marking scheme: Full Marks : +4 If ONLY the correct integer is entered; Zero Marks : 0 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.8 The stoichiometric reaction of 516 g of dimethyldichlorosilane with water results in a tetrameric cyclic product X in 75% yield. The weight (in g) of X obtained is___. [Use, molar mass (g mol−1): H = 1, C = 12, O = 16, Si = 28, Cl = 35.5]"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.9 A gas has a compressibility factor of 0.5 and a molar volume of 0.4 dm3 mol−1 at a temperature of 800 K and pressure x atm. If it shows ideal gas behaviour at the same temperature and pressure, the molar volume will be y dm3 mol−1. The value of 𝐱/𝐲 is ___. [Use: Gas constant, R = 8 ×10−2 L atm K−1 mol−1] 6/11 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.10 The plot of log𝑘 versus 1 ⁄ for a reversible reaction A (g) ⇌P (g) is shown. 𝑓 𝑇 Pre-exponential factors for the forward and backward reactions are 1015 s−1 and 1011 s−1, respectively. If the value of log𝐾 for the reaction at 500 K is 6, the value of |log𝑘 | at 250 K is ___. 𝑏 [K = equilibrium constant of the reaction 𝑘 = rate constant of forward reaction 𝑓 𝑘 = rate constant of backward reaction] 𝑏"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.11 One mole of an ideal monoatomic gas undergoes two reversible processes (A  B and B  C) as shown in the given figure: A  B is an adiabatic process. If the total heat absorbed in the entire process (A  B and B  C) is R𝑇 ln10, the value of 2log𝑉 is ___. 2 3 5 [Use, molar heat capacity of the gas at constant pressure, 𝐶 = R] p,m 2 7/11 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.12 In a one-litre flask, 6 moles of A undergoes the reaction A (g) ⇌P (g). The progress of product formation at two temperatures (in Kelvin), T and T , is shown in the figure: 1 2 If T = 2T and (∆GΘ−∆GΘ) = RT lnx, then the value of x is ___. 1 2 2 1 2 [∆GΘ and ∆GΘ are standard Gibb’s free energy change for the reaction at temperatures T and T , 1 2 1 2 respectively.]"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.13 The total number of sp2 hybridised carbon atoms in the major product P (a non-heterocyclic compound) of the following reaction is ___. 8/11 JEE (Advanced) 2023 Paper 1 SECTION 4 (Maximum Marks: 12)  This section contains FOUR (04) Matching List Sets.  Each set has ONE Multiple Choice Question.  Each set has TWO lists: List-I and List-II.  List-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5).  FOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of these four options satisfies the condition asked in the Multiple Choice Question.  Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 ONLY if the option corresponding to the correct combination is chosen; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : −1 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.14 Match the reactions (in the given stoichiometry of the reactants) in List-I with one of their products given in List-II and choose the correct option. List-I List-II (P) P O + 3H O  (1) P(O)(OCH )Cl 2 3 2 3 2 (Q) P + 3NaOH + 3H O  (2) H PO 4 2 3 3 (R) PCl + CH COOH  (3) PH 5 3 3 (S) H PO + 2H O + 4AgNO  (4) POCl 3 2 2 3 3 (5) H PO 3 4 (A) P  2; Q  3; R  1; S  5 (B) P  3; Q  5; R  4; S  2 (C) P  5; Q  2; R  1; S  3 (D) P  2; Q  3; R  4; S  5 9/11 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.15 Match the electronic configurations in List-I with appropriate metal complex ions in List-II and choose the correct option. [Atomic Number: Fe = 26, Mn = 25, Co = 27] List-I List-II (P) t6 e0 (1) [Fe(H O) ]2+ 2g g 2 6 (Q) t3 e2 (2) [Mn(H O) ]2+ 2g g 2 6 (R) e2 t3 (3) [Co(NH ) ]3+ 2 3 6 (S) t4 e2 (4) [FeCl ] 2g g 4 (5) [CoCl ]2 4 (A) P  1; Q  4; R  2; S  3 (B) P  1; Q  2; R  4; S  5 (C) P  3; Q  2; R  5; S  1 (D) P  3; Q  2; R  4; S  1"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.16 Match the reactions in List-I with the features of their products in List-II and choose the correct option. List-I List-II (1) Inversion of configuration (P) (2) Retention of configuration (3) Mixture of enantiomers (Q) (4) Mixture of structural isomers (5) Mixture of diastereomers (R) (S) (A) P  1; Q  2; R  5; S  3 (B) P  2; Q  1; R  3; S  5 (C) P  1; Q  2; R  5; S  4 (D) P  2; Q  4; R  3; S  5 10/11 JEE (Advanced) 2023 Paper 1"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.17 The major products obtained from the reactions in List-II are the reactants for the named reactions mentioned in List-I. Match List-I with List-II and choose the correct option. List-I List-II (P) Etard reaction (1) (Q) Gattermann reaction (2) (R) Gattermann-Koch reaction (3) (S) Rosenmund reduction (4) (5) (A) P  2; Q  4; R  1; S  3 (B) P  1; Q  3; R  5; S  2 (C) P  3; Q  2; R  1; S  4 (D) P  3; Q  4; R  5; S  2 END OF THE QUESTION PAPER 11/11"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.1 1 Let f :[1,) be a differentiable function such that f(1) and 3 x x3 3 f(t)dt  x f(x) ,x[1,). Let e denote the base of the natural logarithm. Then the 1 3 value of f(e) is e2 4 log 4e 4e2 e2 4 (A) (B) e (C) (D) 3 3 3 3"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.2 Consider an experiment of tossing a coin repeatedly until the outcomes of two consecutive tosses 1 are same. If the probability of a random toss resulting in head is , then the probability that the 3 experiment stops with head is 1 5 4 2 (A) (B) (C) (D) 3 21 21 7"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.3 (  ) For any y, let cot1(y)(0,) and tan1(y)  , . Then the sum of all the solutions 2 2 ( 6y ) (9y2 ) 2 of the equation tan1 cot1  for 0| y|3, is equal to 9y2 6y 3 (A) 2 33 (B) 32 3 (C) 4 36 (D) 64 3 1/9 JEE (Advanced) 2023 Paper 2  "
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.4 Let the position vectors of the points P,Q,R and S be a iˆ2ˆj5k ˆ , b 3iˆ6ˆj3k ˆ ,  17 16  c  iˆ ˆj7k ˆ and d 2iˆ ˆjk ˆ , respectively. Then which of the following statements is 5 5 true? (A) The points P,Q,R and S are NOT coplanar   b2d (B) is the position vector of a point which divides PR internally in the ratio5:4 3   b2d (C) is the position vector of a point which divides PR externally in the ratio 5:4 3   (D) The square of the magnitude of the vector bd is 95 2/9 JEE (Advanced) 2023 Paper 2 SECTION 2 (Maximum Marks: 12)  This section contains THREE (03) questions.  Each question has FOUR options (A), (B), (C) and (D). ONE OR MORE THAN ONE of these four option(s) is (are) correct answer(s).  For each question, choose the option(s) corresponding to (all) the correct answer(s).  Answer to each question will be evaluated according to the following marking scheme: Full Marks : (cid:3397)4 ONLY if (all) the correct option(s) is(are) chosen; Partial Marks : (cid:3397)3 If all the four options are correct but ONLY three options are chosen; Partial Marks : (cid:3397)2 If three or more options are correct but ONLY two options are chosen, both of which are correct; Partial Marks : (cid:3397)1 If two or more options are correct but ONLY one option is chosen and it is a correct option; Zero Marks : 0 If unanswered; Negative Marks : (cid:3398)2 In all other cases.  For example, in a question, if (A), (B) and (D) are the ONLY three options corresponding to correct answers, then choosing ONLY (A), (B) and (D) will get (cid:3397)4 marks; choosing ONLY (A) and (B) will get (cid:3397)2 marks; choosing ONLY (A) and (D) will get (cid:3397)2marks; choosing ONLY (B) and (D) will get (cid:3397)2 marks; choosing ONLY (A) will get (cid:3397)1 mark; choosing ONLY (B) will get (cid:3397)1 mark; choosing ONLY (D) will get (cid:3397)1 mark; choosing no option(s) (i.e. the question is unanswered) will get 0 marks and choosing any other option(s) will get (cid:3398)2 marks."
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.5 Let M (a ), i, j{1,2,3}, be the 33 matrix such that a 1 if j1 is divisible by i, ij ij otherwise a 0. Then which of the following statements is(are) true? ij (A) M is invertible a  a  a  1 1 1       (B) There exists a nonzero column matrix a such that M a = a  2  2  2       a a a       3 3 3 0   (C) The set {X 3:MX 0}{0}, where 0 = 0     0   (D) The matrix (M 2I) is invertible, where I is the 33 identity matrix 3/9 JEE (Advanced) 2023 Paper 2"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.6 2  1  1 Let f :(0,1) be the function defined as f(x)[4x]  x   x  , where [x] denotes  4  2 the greatest integer less than or equal to x. Then which of the following statements is(are) true? (A) The function f is discontinuous exactly at one point in (0,1) (B) There is exactly one point in (0,1) at which the function f is continuous but NOT differentiable (C) The function f is NOT differentiable at more than three points in (0,1) 1 (D) The minimum value of the function f is  512"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.7 d2f Let S be the set of all twice differentiable functions f from  to  such that (x)0 for dx2 all x(1,1). For f S, let X be the number of points x(1,1) for which f(x)x. Then f which of the following statements is(are) true? (A) There exists a function f S such that X 0 f (B) For every function f S, we have X 2 f (C) There exists a function f S such that X 2 f (D) There does NOT exist any function f in S such that X 1 f 4/9 JEE (Advanced) 2023 Paper 2 SECTION 3 (Maximum Marks: 24)  This section contains SIX (06) questions.  The answer to each question is a NON-NEGATIVE INTEGER.  For each question, enter the correct integer corresponding to the answer using the mouse and the on-screen virtual numeric keypad in the place designated to enter the answer.  Answer to each question will be evaluated according to the following marking scheme: Full Marks : (cid:3397)4 If ONLY the correct integer is entered; Zero Marks : 0 In all other cases. (  )"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.8 For x, let tan1(x)  , . Then the minimum value of the function 2 2 x tan1x e(tcost) f : defined by f(x)  dt is 1t2023 0"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.9 For x, let y(x) be a solution of the differential equation dy (x25) 2x y2x(x25)2 such thaty(2)7. dx Then the maximum value of the function y(x) is"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.10 Let X be the set of all five digit numbers formed using 1,2,2,2,4,4,0. For example, 22240 is in X while 02244 and 44422 are not in X. Suppose that each element of X has an equal chance of being chosen. Let p be the conditional probability that an element chosen at random is a multiple of 20 given that it is a multiple of 5. Then the value of 38p is equal to"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.11 Let A,A ,A,,A be the vertices of a regular octagon that lie on a circle of radius 2. Let P be 1 2 3 8 a point on the circle and let PA denote the distance between the points Pand A for i1,2,,8. i i If P varies over the circle, then the maximum value of the product PA PA PA , is 1 2 8"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.12 a 3 b     Let R c 2 d : a,b,c,d{0,3,5,7,11,13,17,19}. Then the number of invertible      0 5 0    matrices in R is 5/9 JEE (Advanced) 2023 Paper 2"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.13 Let C be the circle of radius 1 with center at the origin. Let C be the circle of radius r with 1 2 center at the point A(4,1), where 1r 3. Two distinct common tangents PQ and ST of C 1 and C are drawn. The tangent PQ touches C at P and C at Q. The tangent ST touches C 2 1 2 1 at S and C at T. Mid points of the line segments PQand ST are joined to form a line which 2 meets the x-axis at a point B. If AB 5, then the value of r2 is 6/9 JEE (Advanced) 2023 Paper 2 SECTION 4 (Maximum Marks: 12)  This section contains TWO (02) paragraphs.  Based on each paragraph, there are TWO (02) questions.  The answer to each question is a NUMERICAL VALUE.  For each question, enter the correct numerical value of the answer using the mouse and the on- screen virtual numeric keypad in the place designated to enter the answer.  If the numerical value has more than two decimal places, truncate/round-off the value to TWO decimal places.  Answer to each question will be evaluated according to the following marking scheme: Full Marks : (cid:3397)3 If ONLY the correct numerical value is entered in the designated place; Zero Marks : 0 In all other cases. PARAGRAPH “I” Consider an obtuse angled triangle ABC in which the difference between the largest and the smallest  angle is and whose sides are in arithmetic progression. Suppose that the vertices of this triangle lie 2 on a circle of radius 1. (There are two questions based on PARAGRAPH “I”, the question given below is one of them)"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.14 Let a be the area of the triangle ABC. Then the value of 64a2 is PARAGRAPH “I” Consider an obtuse angled triangle ABC in which the difference between the largest and the smallest  angle is and whose sides are in arithmetic progression. Suppose that the vertices of this triangle lie 2 on a circle of radius 1. (There are two questions based on PARAGRAPH “I”, the question given below is one of them)"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.15 Then the inradius of the triangle ABC is 7/9 JEE (Advanced) 2023 Paper 2 PARAGRAPH “II” Consider the 66square in the figure. Let A,A ,,A be the points of intersections (dots in the 1 2 49 picture) in some order. We say that A and A are friends if they are adjacent along a row or along a i j column. Assume that each point A has an equal chance of being chosen. i (There are two questions based on PARAGRAPH “II”, the question given below is one of them)"
+    },
+    {
+        "year": 2023,
+        "subject": "maths",
+        "question": "Q.16 Let p be the probability that a randomly chosen point has i many friends, i0,1,2,3,4. Let i X be a random variable such that for i0,1,2,3,4, the probability P(X i) p . Then the i value of 7E(X) is PARAGRAPH “II” Consider the 66square in the figure. Let A,A ,,A be the points of intersections (dots in the 1 2 49 picture) in some order. We say that A and A are friends if they are adjacent along a row or along a i j column. Assume that each point A has an equal chance of being chosen. i (There are two questions based on PARAGRAPH “II”, the question given below is one of them)"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.17 Two distinct points are chosen randomly out of the points A,A ,,A . Let p be the 1 2 49 probability that they are friends. Then the value of 7p is 8/9 JEE (Advanced) 2023 Paper 2 END OF THE QUESTION PAPER 9/9 JEE (Advanced) 2023 Paper 2 SECTION 1 (Maximum Marks: 12) • This section contains FOUR (04) questions. • Each question has FOUR options (A), (B), (C) and (D). ONLY ONE of these four options is the correct answer. • For each question, choose the option corresponding to the correct answer. • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 If ONLY the correct option is chosen; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : −1 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.1 An electric dipole is formed by two charges +𝑞 and −𝑞 located in 𝑥𝑦-plane at (0,2) mm and (0,−2) mm, respectively, as shown in the figure. The electric potential at point P (100,100) mm due to the dipole is 𝑉 . The charges +𝑞 and −𝑞 are then moved to the points (−1,2) mm and 0 (1,−2) mm, respectively. What is the value of electric potential at P due to the new dipole? (A) 𝑉 0 /4 (B) 𝑉 0 /2 (C) 𝑉 0 /√2 (D) 3𝑉 0 /4"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.2 Young’s modulus of elasticity 𝑌 is expressed in terms of three derived quantities, namely, the gravitational constant 𝐺, Planck’s constant ℎ and the speed of light 𝑐, as 𝑌 = 𝑐𝛼ℎ𝛽𝐺𝛾. Which of the following is the correct option? (A) 𝛼 = 7, 𝛽 = −1, 𝛾 = −2 (B) 𝛼 = −7, 𝛽 = −1, 𝛾 = −2 (C) 𝛼 = 7, 𝛽 = −1, 𝛾 = 2 (D) 𝛼 = −7, 𝛽 = 1, 𝛾 = −2"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.3 A particle of mass 𝑚 is moving in the 𝑥𝑦-plane such that its velocity at a point (𝑥,𝑦) is given as v⃗ = 𝛼(𝑦𝑥̂+2𝑥𝑦̂), where 𝛼 is a non-zero constant. What is the force 𝐹 acting on the particle? (A) 𝐹 = 2𝑚𝛼2(𝑥𝑥̂+𝑦𝑦̂ ) (B) 𝐹 = 𝑚𝛼2(𝑦𝑥̂+2𝑥𝑦̂ ) (C) 𝐹 = 2𝑚𝛼2(𝑦𝑥̂+𝑥𝑦̂ ) (D) 𝐹 = 𝑚𝛼2(𝑥𝑥̂+2𝑦𝑦̂ ) 1/12 JEE (Advanced) 2023 Paper 2"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.4 An ideal gas is in thermodynamic equilibrium. The number of degrees of freedom of a molecule of the gas is 𝑛. The internal energy of one mole of the gas is 𝑈 and the speed of sound in the gas is 𝑛 v . At a fixed temperature and pressure, which of the following is the correct option? 𝑛 (A) v < v and 𝑈 > 𝑈 (B) v > v and 𝑈 > 𝑈 3 6 3 6 5 3 3 5 (C) v > v and 𝑈 < 𝑈 (D) v < v and 𝑈 < 𝑈 5 7 5 7 6 7 6 7 2/12 JEE (Advanced) 2023 Paper 2 SECTION 2 (Maximum Marks: 12) • This section contains THREE (03) questions. • Each question has FOUR options (A), (B), (C) and (D). ONE OR MORE THAN ONE of these four option(s) is (are) correct answer(s). • For each question, choose the option(s) corresponding to (all) the correct answer(s). • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +4 ONLY if (all) the correct option(s) is(are) chosen; Partial Marks : +3 If all the four options are correct but ONLY three options are chosen; Partial Marks : +2 If three or more options are correct but ONLY two options are chosen, both of which are correct; Partial Marks : +1 If two or more options are correct but ONLY one option is chosen and it is a correct option; Zero Marks : 0 If unanswered; Negative Marks : −2 In all other cases. • For example, in a question, if (A), (B) and (D) are the ONLY three options corresponding to correct answers, then choosing ONLY (A), (B) and (D) will get +4 marks; choosing ONLY (A) and (B) will get +2 marks; choosing ONLY (A) and (D) will get +2marks; choosing ONLY (B) and (D) will get +2 marks; choosing ONLY (A) will get +1 mark; choosing ONLY (B) will get +1 mark; choosing ONLY (D) will get +1 mark; choosing no option(s) (i.e. the question is unanswered) will get 0 marks and choosing any other option(s) will get −2 marks. 3/12 JEE (Advanced) 2023 Paper 2"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.5 A monochromatic light wave is incident normally on a glass slab of thickness 𝑑, as shown in the figure. The refractive index of the slab increases linearly from 𝑛 to 𝑛 over the height ℎ. Which of 1 2 the following statement(s) is(are) true about the light wave emerging out of the slab? (A) It will deflect up by an angle tan−1[ (𝑛 2 2−𝑛 1 2)𝑑 ]. 2ℎ (B) It will deflect up by an angle tan−1[ (𝑛2−𝑛1 )𝑑 ]. ℎ (C) It will not deflect. (D) The deflection angle depends only on (𝑛 −𝑛 ) and not on the individual values of 𝑛 and 𝑛 . 2 1 1 2"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.6 A n annular disk of mass 𝑀, inner radius 𝑎 and outer radius 𝑏 is placed on a horizontal surface with coefficient of friction 𝜇, as shown in the figure. At some time, an impulse ℐ 𝑥̂ is applied at a height 0 ℎ above the center of the disk. If ℎ = ℎ then the disk rolls without slipping along the 𝑥-axis. 𝑚 Which of the following statement(s) is(are) correct? (A) For 𝜇 ≠ 0 and 𝑎 → 0, ℎ = 𝑏/2. 𝑚 (B) For 𝜇 ≠ 0 and 𝑎 →𝑏, ℎ = 𝑏. 𝑚 (C) For ℎ = ℎ , the initial angular velocity does not depend on the inner radius 𝑎. 𝑚 (D) For 𝜇 = 0 and ℎ = 0, the wheel always slides without rolling. 4/12 JEE (Advanced) 2023 Paper 2"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.7 The electric field associated with an electromagnetic wave propagating in a dielectric medium is given by 𝐸⃗ = 30(2𝑥̂+𝑦̂)sin[2𝜋(5×1014𝑡− 107 𝑧)] V m−1. Which of the following option(s) 3 is(are) correct? [Given: The speed of light in vacuum, 𝑐 = 3×108 m s−1] (A) 𝐵 = −2×10−7 sin[2𝜋(5×1014 𝑡− 107 𝑧)] Wb m−2. 𝑥 3 (B) 𝐵 = 2×10−7 sin[2𝜋(5×1014 𝑡− 107 𝑧)] Wb m−2. 𝑦 3 (C) The wave is polarized in the 𝑥𝑦-plane with polarization angle 30° with respect to the 𝑥-axis. (D) The refractive index of the medium is 2. 5/12 JEE (Advanced) 2023 Paper 2 SECTION 3 (Maximum Marks: 24) • This section contains SIX (06) questions. • The answer to each question is a NON-NEGATIVE INTEGER. • For each question, enter the correct integer corresponding to the answer using the mouse and the on-screen virtual numeric keypad in the place designated to enter the answer. • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +4 If ONLY the correct integer is entered; Zero Marks : 0 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.8 A thin circular coin of mass 5 gm and radius 4/3 cm is initially in a horizontal 𝑥𝑦-plane. The coin is tossed vertically up (+𝑧 direction) by applying an impulse of √ 𝜋 ×10−2 N-s at a distance 2 2/3 cm from its center. The coin spins about its diameter and moves along the +𝑧 direction. By the time the coin reaches back to its initial position, it completes 𝑛 rotations. The value of 𝑛 is ____. [Given: The acceleration due to gravity 𝑔 = 10 m s−2]"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.9 A rectangular conducting loop of length 4 cm and width 2 cm is in the 𝑥𝑦-plane, as shown in the √3 1 figure. It is being moved away from a thin and long conducting wire along the direction 𝑥̂+ 𝑦̂ 2 2 with a constant speed v. The wire is carrying a steady current 𝐼 = 10 A in the positive 𝑥-direction. A current of 10 𝜇A flows through the loop when it is at a distance 𝑑 = 4 cm from the wire. If the resistance of the loop is 0.1 Ω, then the value of v is _______ m s−1. [Given: The permeability of free space 𝜇 = 4𝜋×10−7 N A−2] 0 6/12 JEE (Advanced) 2023 Paper 2"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.10 A string of length 1 m and mass 2×10−5 kg is under tension 𝑇. When the string vibrates, two successive harmonics are found to occur at frequencies 750 Hz and 1000 Hz. The value of tension 𝑇 is _____ Newton."
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.11 A n incompressible liquid is kept in a container having a weightless piston with a hole. A capillary tube of inner radius 0.1 mm is dipped vertically into the liquid through the airtight piston hole, as shown in the figure. The air in the container is isothermally compressed from its original volume 𝑉 0 100 to 𝑉 with the movable piston. Considering air as an ideal gas, the height (ℎ) of the liquid 0 101 column in the capillary above the liquid level in cm is_______. [Given: Surface tension of the liquid is 0.075 N m−1, atmospheric pressure is 105 N m−2, acceleration due to gravity (𝑔) is 10 m s−2, density of the liquid is 103 kg m−3 and contact angle of capillary surface with the liquid is zero]"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.12 𝑑𝑁 In a radioactive decay process, the activity is defined as 𝐴 = − , where 𝑁(𝑡) is the number of 𝑑𝑡 radioactive nuclei at time 𝑡. Two radioactive sources, 𝑆 and 𝑆 have same activity at time 𝑡 = 0. 1 2 At a later time, the activities of 𝑆 and 𝑆 are 𝐴 and 𝐴 , respectively. When 𝑆 and 𝑆 have just 1 2 1 2 1 2 completed their 3rd and 7th half-lives, respectively, the ratio 𝐴 /𝐴 is __________. 1 2 7/12 JEE (Advanced) 2023 Paper 2"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.13 One mole of an ideal gas undergoes two different cyclic processes I and II, as shown in the 𝑃-𝑉 diagrams below. In cycle I, processes 𝑎,𝑏,𝑐 and 𝑑 are isobaric, isothermal, isobaric and isochoric, respectively. In cycle II, processes 𝑎′,𝑏′,𝑐′ and 𝑑′ are isothermal, isochoric, isobaric and isochoric, respectively. The total work done during cycle I is 𝑊 and that during cycle II is 𝑊 . The ratio 𝐼 𝐼𝐼 𝑊/𝑊 is _______. 𝐼 𝐼𝐼 8/12 JEE (Advanced) 2023 Paper 2 SECTION 4 (Maximum Marks: 12) • This section contains TWO (02) paragraphs. • Based on each paragraph, there are TWO (02) questions. • The answer to each question is a NUMERICAL VALUE. • For each question, enter the correct numerical value of the answer using the mouse and the on- screen virtual numeric keypad in the place designated to enter the answer. • If the numerical value has more than two decimal places, truncate/round-off the value to TWO decimal places. • Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 If ONLY the correct numerical value is entered in the designated place; Zero Marks : 0 In all other cases. PARAGRAPH I 𝑆 and 𝑆 are two identical sound sources of frequency 656 Hz. The source 𝑆 is located at 𝑂 and 𝑆 1 2 1 2 moves anti-clockwise with a uniform speed 4√2 m s−1 on a circular path around 𝑂, as shown in the figure. There are three points 𝑃, 𝑄 and 𝑅 on this path such that 𝑃 and 𝑅 are diametrically opposite while 𝑄 is equidistant from them. A sound detector is placed at point 𝑃. The source 𝑆 can move along 1 direction 𝑂𝑃. [Given: The speed of sound in air is 324 m s−1]"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.14 When only 𝑆 is emitting sound and it is at 𝑄, the frequency of sound measured by the detector 2 in Hz is _________. 9/12 JEE (Advanced) 2023 Paper 2 PARAGRAPH I 𝑆 and 𝑆 are two identical sound sources of frequency 656 Hz. The source 𝑆 is located at 𝑂 and 𝑆 1 2 1 2 moves anti-clockwise with a uniform speed 4√2 m s−1 on a circular path around 𝑂, as shown in the figure. There are three points 𝑃, 𝑄 and 𝑅 on this path such that 𝑃 and 𝑅 are diametrically opposite while 𝑄 is equidistant from them. A sound detector is placed at point 𝑃. The source 𝑆 can move along 1 direction 𝑂𝑃. [Given: The speed of sound in air is 324 m s−1]"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.15 Consider both sources emitting sound. When 𝑆 is at 𝑅 and 𝑆 approaches the detector with a 2 1 speed 4 m s−1, the beat frequency measured by the detector is _______Hz. 10/12 JEE (Advanced) 2023 Paper 2 PARAGRAPH II A cylindrical furnace has height (𝐻) and diameter (𝐷) both 1 m. It is maintained at temperature 360 K. The air gets heated inside the furnace at constant pressure 𝑃 and its temperature becomes 𝑇 = 360 𝐾. 𝑎 The hot air with density 𝜌 rises up a vertical chimney of diameter 𝑑 = 0.1 m and height ℎ = 9 m above the furnace and exits the chimney (see the figure). As a result, atmospheric air of density 𝜌 = 𝑎 1.2 kg m−3, pressure 𝑃 and temperature 𝑇 = 300 K enters the furnace. Assume air as an ideal gas, 𝑎 𝑎 neglect the variations in 𝜌 and 𝑇 inside the chimney and the furnace. Also ignore the viscous effects. [Given: The acceleration due to gravity 𝑔 = 10 m s−2 and 𝜋 = 3.14]"
+    },
+    {
+        "year": 2023,
+        "subject": "physics",
+        "question": "Q.16 Considering the air flow to be streamline, the steady mass flow rate of air exiting the chimney is _______ gm s−1. 11/12 JEE (Advanced) 2023 Paper 2 PARAGRAPH II A cylindrical furnace has height (𝐻) and diameter (𝐷) both 1 m. It is maintained at temperature 360 K. The air gets heated inside the furnace at constant pressure 𝑃 and its temperature becomes 𝑇 = 360 𝐾. 𝑎 The hot air with density 𝜌 rises up a vertical chimney of diameter 𝑑 = 0.1 m and height ℎ = 9 m above the furnace and exits the chimney (see the figure). As a result, atmospheric air of density 𝜌 = 𝑎 1.2 kg m−3, pressure 𝑃 and temperature 𝑇 = 300 K enters the furnace. Assume air as an ideal gas, 𝑎 𝑎 neglect the variations in 𝜌 and 𝑇 inside the chimney and the furnace. Also ignore the viscous effects. [Given: The acceleration due to gravity 𝑔 = 10 m s−2 and 𝜋 = 3.14]"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.17 When the chimney is closed using a cap at the top, a pressure difference Δ𝑃 develops between the top and the bottom surfaces of the cap. If the changes in the temperature and density of the hot air, due to the stoppage of air flow, are negligible then the value of Δ𝑃 is ______ N m−2. END OF THE QUESTION PAPER 12/12 JEE (Advanced) 2023 Paper 2 SECTION 1 (Maximum Marks: 12)  This section contains FOUR (04) questions.  Each question has FOUR options (A), (B), (C) and (D). ONLY ONE of these four options is the correct answer.  For each question, choose the option corresponding to the correct answer.  Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 If ONLY the correct option is chosen; Zero Marks : 0 If none of the options is chosen (i.e. the question is unanswered); Negative Marks : −1 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.1 The correct molecular orbital diagram for F molecule in the ground state is 2 (A) (B) (C) (D) 1/10 JEE (Advanced) 2023 Paper 2"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.2 C onsider the following statements related to colloids. (I) Lyophobic colloids are not formed by simple mixing of dispersed phase and dispersion medium. (II) For emulsions, both the dispersed phase and the dispersion medium are liquid. (III) Micelles are produced by dissolving a surfactant in any solvent at any temperature. (IV) Tyndall effect can be observed from a colloidal solution with dispersed phase having the same refractive index as that of the dispersion medium. The option with the correct set of statements is (A) (I) and (II) (B) (II) and (III) (C) (III) and (IV) (D) (II) and (IV)"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.3 I n the following reactions, P, Q, R, and S are the major products. The correct statement about P, Q, R, and S is (A) P is a primary alcohol with four carbons. (B) Q undergoes Kolbe’s electrolysis to give an eight-carbon product. (C) R has six carbons and it undergoes Cannizzaro reaction. (D) S is a primary amine with six carbons. 2/10 JEE (Advanced) 2023 Paper 2"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.4 A disaccharide X cannot be oxidised by bromine water. The acid hydrolysis of X leads to a laevorotatory solution. The disaccharide X is (A) (B) (C) (D) 3/10 JEE (Advanced) 2023 Paper 2 SECTION 2 (Maximum Marks: 12)  This section contains THREE (03) questions.  Each question has FOUR options (A), (B), (C) and (D). ONE OR MORE THAN ONE of these four option(s) is (are) correct answer(s).  For each question, choose the option(s) corresponding to (all) the correct answer(s).  Answer to each question will be evaluated according to the following marking scheme: Full Marks : +4 ONLY if (all) the correct option(s) is(are) chosen; Partial Marks : +3 If all the four options are correct but ONLY three options are chosen; Partial Marks : +2 If three or more options are correct but ONLY two options are chosen, both of which are correct; Partial Marks : +1 If two or more options are correct but ONLY one option is chosen and it is a correct option; Zero Marks : 0 If unanswered; Negative Marks : −2 In all other cases.  For example, in a question, if (A), (B) and (D) are the ONLY three options corresponding to correct answers, then choosing ONLY (A), (B) and (D) will get +4 marks; choosing ONLY (A) and (B) will get +2 marks; choosing ONLY (A) and (D) will get +2marks; choosing ONLY (B) and (D) will get +2 marks; choosing ONLY (A) will get +1 mark; choosing ONLY (B) will get +1 mark; choosing ONLY (D) will get +1 mark; choosing no option(s) (i.e. the question is unanswered) will get 0 marks and choosing any other option(s) will get −2 marks."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.5 T he complex(es), which can exhibit the type of isomerism shown by [Pt(NH ) Br ], is(are) 3 2 2 [en = H NCH CH NH ] 2 2 2 2 (A) [Pt(en)(SCN) ] (B) [Zn(NH ) Cl ] 2 3 2 2 (C) [Pt(NH 3 ) 2 Cl 4 ] (D) [Cr(en) 2 (H 2 O)(SO 4 )]+ 4/10 JEE (Advanced) 2023 Paper 2"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.6 A toms of metals x, y, and z form face-centred cubic (fcc) unit cell of edge length L , body-centred x cubic (bcc) unit cell of edge length L , and simple cubic unit cell of edge length L , respectively. y z √3 8 3 If r = r ; r = r ; M = M and M = 3M , then the correct statement(s) is(are) z y y x z y Z x 2 √3 2 [Given: M , M , and M are molar masses of metals x, y, and z, respectively. x y z r , r , and r are atomic radii of metals x, y, and z, respectively.] x y z (A) Packing efficiency of unit cell of x  Packing efficiency of unit cell of y  Packing efficiency of unit cell of z (B) L  L y z (C) L  L x y (D) Density of x  Density of y"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.7 I n the following reactions, P, Q, R, and S are the major products. The correct statement(s) about P, Q, R, and S is(are) (A) P and Q are monomers of polymers dacron and glyptal, respectively. (B) P, Q, and R are dicarboxylic acids. (C) Compounds Q and R are the same. (D) R does not undergo aldol condensation and S does not undergo Cannizzaro reaction. 5/10 JEE (Advanced) 2023 Paper 2 SECTION 3 (Maximum Marks: 24)  This section contains SIX (06) questions.  The answer to each question is a NON-NEGATIVE INTEGER.  For each question, enter the correct integer corresponding to the answer using the mouse and the on-screen virtual numeric keypad in the place designated to enter the answer.  Answer to each question will be evaluated according to the following marking scheme: Full Marks : +4 If ONLY the correct integer is entered; Zero Marks : 0 In all other cases."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.8 H S (5 moles) reacts completely with acidified aqueous potassium permanganate solution. In this 2 reaction, the number of moles of water produced is x, and the number of moles of electrons involved is y. The value of (x + y) is ____."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.9 A mong [I ]+, [SiO ]4−, SO Cl , XeF , SF , ClF , Ni(CO) , XeO F , [PtCl ]2−, XeF , and SOCl , the 3 4 2 2 2 4 3 4 2 2 4 4 2 total number of species having sp3 hybridised central atom is ______."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.10 C onsider the following molecules: Br O , F O, H S O , H S O , and C O . 3 8 2 2 4 6 2 5 6 3 2 Count the number of atoms existing in their zero oxidation state in each molecule. Their sum is____."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.11 F or He+, a transition takes place from the orbit of radius 105.8 pm to the orbit of radius 26.45 pm. The wavelength (in nm) of the emitted photon during the transition is ___. [Use: Bohr radius, a = 52.9 pm Rydberg constant, 𝑅 = 2.2 ×10−18 J H Planck’s constant, h = 6.6 ×10−34 J s Speed of light, c = 3 ×108 m s−1] 6/10 JEE (Advanced) 2023 Paper 2"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.12 5 0 mL of 0.2 molal urea solution (density = 1.012 g mL−1 at 300 K) is mixed with 250 mL of a solution containing 0.06 g of urea. Both the solutions were prepared in the same solvent. The osmotic pressure (in Torr) of the resulting solution at 300 K is ___. [Use: Molar mass of urea = 60 g mol−1; gas constant, R = 62 L Torr K−1 mol−1 ; Assume,  H = 0,  V = 0] mix mix"
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.13 T he reaction of 4-methyloct-1-ene (P, 2.52 g) with HBr in the presence of (C H CO) O gives two 6 5 2 2 isomeric bromides in a 9 : 1 ratio, with a combined yield of 50%. Of these, the entire amount of the primary alkyl bromide was reacted with an appropriate amount of diethylamine followed by treatment with aq. K CO to give a non-ionic product S in 100% yield. 2 3 The mass (in mg) of S obtained is ___. [Use molar mass (in g mol–1): H = 1, C = 12, N = 14, Br = 80] 7/10 JEE (Advanced) 2023 Paper 2 SECTION 4 (Maximum Marks: 12)  This section contains TWO (02) paragraphs.  Based on each paragraph, there are TWO (02) questions.  The answer to each question is a NUMERICAL VALUE.  For each question, enter the correct numerical value of the answer using the mouse and the on- screen virtual numeric keypad in the place designated to enter the answer.  If the numerical value has more than two decimal places, truncate/round-off the value to TWO decimal places.  Answer to each question will be evaluated according to the following marking scheme: Full Marks : +3 If ONLY the correct numerical value is entered in the designated place; Zero Marks : 0 In all other cases. “PARAGRAPH I” The entropy versus temperature plot for phases α and β at 1 bar pressure is given. 𝑆 and 𝑆 are entropies of the phases at temperatures T and 0 K, respectively. T 0 The transition temperature for α to β phase change is 600 K and 𝐶 − 𝐶 = 1 J mol−1 K−1. Assume p,β p,α (𝐶 − 𝐶 ) is independent of temperature in the range of 200 to 700 K. 𝐶 and 𝐶 are heat capacities p,β p,α p,α p,β of α and β phases, respectively."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.14 The value of entropy change, S −S (in J mol−1 K−1), at 300 K is ___. β α [Use: ln 2 = 0.69 Given: S −S = 0 at 0 K] β α 8/10 JEE (Advanced) 2023 Paper 2 “PARAGRAPH I” The entropy versus temperature plot for phases α and β at 1 bar pressure is given. 𝑆 and 𝑆 are entropies of the phases at temperatures T and 0 K, respectively. T 0 The transition temperature for α to β phase change is 600 K and 𝐶 − 𝐶 = 1 J mol−1 K−1. Assume p,β p,α (𝐶 − 𝐶 ) is independent of temperature in the range of 200 to 700 K. 𝐶 and 𝐶 are heat capacities p,β p,α p,α p,β of α and β phases, respectively."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.15 The value of enthalpy change, H −H (in J mol−1), at 300 K is ___. β α “PARAGRAPH II” A trinitro compound, 1,3,5-tris-(4-nitrophenyl)benzene, on complete reaction with an excess of Sn/HCl gives a major product, which on treatment with an excess of NaNO /HCl at 0 oC provides P as the product. 2 P, upon treatment with excess of H O at room temperature, gives the product Q. Bromination of Q in 2 aqueous medium furnishes the product R. The compound P upon treatment with an excess of phenol under basic conditions gives the product S. The molar mass difference between compounds Q and R is 474 g mol–1 and between compounds P and S is 172.5 g mol–1."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.16 The number of heteroatoms present in one molecule of R is ______ . [Use: Molar mass (in g mol–1): H = 1, C = 12, N = 14, O = 16, Br = 80, Cl = 35.5 Atoms other than C and H are considered as heteroatoms] 9/10 JEE (Advanced) 2023 Paper 2 “PARAGRAPH II” A trinitro compound, 1,3,5-tris-(4-nitrophenyl)benzene, on complete reaction with an excess of Sn/HCl gives a major product, which on treatment with an excess of NaNO /HCl at 0 oC provides P as the product. 2 P, upon treatment with excess of H O at room temperature, gives the product Q. Bromination of Q in 2 aqueous medium furnishes the product R. The compound P upon treatment with an excess of phenol under basic conditions gives the product S. The molar mass difference between compounds Q and R is 474 g mol–1 and between compounds P and S is 172.5 g mol–1."
+    },
+    {
+        "year": 2023,
+        "subject": "chemistry",
+        "question": "Q.17 The total number of carbon atoms and heteroatoms present in one molecule of S is ______ . [Use: Molar mass (in g mol–1): H = 1, C = 12, N = 14, O = 16, Br = 80, Cl = 35.5 Atoms other than C and H are considered as heteroatoms] END OF THE QUESTION PAPER 10/10"
+    }
+]
